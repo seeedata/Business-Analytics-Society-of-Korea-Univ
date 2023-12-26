@@ -1,0 +1,810 @@
+Date,Rank,Movie Title,Weekly Gross,Cumulative Gross,Genre,Original Language,Director,Release Date,Total Gross,Runtime,Distributor,Prod Co.
+2020/1/3,1,Star Wars: The Rise of Skywalker,"$46,053,249","$463,110,690","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/1/3,2,Jumanji: The Next Level,"$33,418,576","$243,124,981","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/1/3,3,Little Women,"$19,932,677","$66,381,009","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/1/3,4,Frozen II,"$15,037,678","$453,623,042","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/1/3,5,The Grudge,"$14,406,715","$14,406,715","Horror, Mystery & thriller",English,Takashi Shimizu,"Oct 22, 2004",$110.2M,1h 30m,Sony Pictures Entertainment,"Senator International, Ghost House Pictures"
+2020/1/3,6,Spies in Disguise,"$12,862,468","$49,508,429","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/1/3,7,Knives Out,"$12,693,710","$133,896,744","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/1/3,8,Uncut Gems,"$10,980,493","$39,966,672","Mystery & thriller, Comedy",English,"Benny Safdie, Josh Safdie","Dec 25, 2019",$50.0M,2h 15m,A24,"Elara Pictures, Sikelia Productions, Scott Rudin Productions"
+2020/1/3,9,Bombshell,"$5,942,307","$26,448,223",Sci-fi,English,Paul Wynne,,,1h 36m,,
+2020/1/3,10,Cats,"$3,748,490","$25,839,425",Musical,English (United Kingdom),David Mallet,,,2h 0m,,
+2020/1/3,11,Richard Jewell,"$2,391,961","$21,830,277",Drama,English,Clint Eastwood,"Dec 13, 2019",$22.3M,2h 11m,Warner Bros. Pictures,"Canadian Film or Video Production Tax Credit (CPTC), Appian Way, 75 Year Plan Productions, Misher Films"
+2020/1/3,12,Ford v. Ferrari,"$2,385,765","$110,655,605","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/1/3,13,A Beautiful Day in the Neighborhood,"$1,829,346","$59,408,011","Biography, Drama",English,Marielle Heller,"Nov 22, 2019",$61.7M,1h 47m,"TriStar Pictures, Sony Pictures Entertainment","Big Beach, TriStar Pictures"
+2020/1/3,14,Queen & Slim,"$1,611,535","$43,106,305","Crime, Drama, Romance",English,Melina Matsoukas,"Nov 27, 2019",$43.8M,2h 12m,Universal Pictures,
+2020/1/3,15,Parasite,"$1,390,119","$24,402,732","Horror, Sci-fi",English,,,,1h 30m,,
+2020/1/3,16,1917,"$1,031,412","$2,721,279","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/1/3,17,IP Man: The Finale,"$979,446","$3,177,068",Action,Chinese,Wilson Yip,"Dec 25, 2019",$4.0M,1h 45m,Well Go USA,"Bullet Films, Shanghai Bona Cultural Media, Mandarin Motion Pictures"
+2020/1/3,18,21 Bridges,"$545,019","$28,418,457","Action, Mystery & thriller, Crime, Drama",English,Brian Kirk,"Nov 22, 2019",$28.5M,1h 39m,STX Films,"STX Entertainment, MWM"
+2020/1/3,19,Jojo Rabbit,"$537,573","$21,772,387","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/1/3,20,A Hidden Life,"$394,588","$1,407,417",Drama,English,Terrence Malick,,,2h 52m,,"Elizabeth Bay Productions, Studio Babelsberg"
+2020/1/10,1,1917,"$51,895,705","$54,616,984","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/1/10,2,Star Wars: The Rise of Skywalker,"$20,535,111","$483,645,801","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/1/10,3,Jumanji: The Next Level,"$17,787,994","$260,912,975","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/1/10,4,Just Mercy,"$13,176,655","$13,612,643",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/1/10,5,Like a Boss,"$13,083,588","$13,083,588",Comedy,English,Miguel Arteta,"Jan 10, 2020",$22.1M,1h 23m,Paramount Pictures,Artists First
+2020/1/10,6,Little Women,"$12,110,043","$78,491,052","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/1/10,7,Underwater,"$9,220,707","$9,220,707","Drama, Adventure",English,John Sturges,,,1h 37m,,RKO Radio Pictures Inc.
+2020/1/10,8,Knives Out,"$7,780,643","$141,677,387","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/1/10,9,Frozen II,"$7,528,648","$461,151,690","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/1/10,10,Spies in Disguise,"$6,318,438","$55,826,867","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/1/10,11,Uncut Gems,"$4,961,927","$44,928,599","Mystery & thriller, Comedy",English,"Benny Safdie, Josh Safdie","Dec 25, 2019",$50.0M,2h 15m,A24,"Elara Pictures, Sikelia Productions, Scott Rudin Productions"
+2020/1/10,12,The Grudge,"$4,725,926","$19,132,641","Horror, Mystery & thriller",English,Takashi Shimizu,"Oct 22, 2004",$110.2M,1h 30m,Sony Pictures Entertainment,"Senator International, Ghost House Pictures"
+2020/1/10,13,Weathering With You,"$3,046,250","$3,046,250","Drama, Fantasy, Anime",Japanese,Makoto Shinkai,"Jan 15, 2020",$7.8M,1h 51m,GKIDS,"Kadokawa, Beijing Enlight Pictures, CoMix Wave Films, China Film Group Corporation, Toho Animation"
+2020/1/10,14,Bombshell,"$2,216,685","$28,664,908",Sci-fi,English,Paul Wynne,,,1h 36m,,
+2020/1/10,15,Parasite,"$1,585,913","$25,988,645","Horror, Sci-fi",English,,,,1h 30m,,
+2020/1/10,16,Ford v. Ferrari,"$1,154,783","$111,810,388","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/1/10,17,Cats,"$808,410","$26,647,835",Musical,English (United Kingdom),David Mallet,,,2h 0m,,
+2020/1/10,18,A Beautiful Day in the Neighborhood,"$795,838","$60,203,849","Biography, Drama",English,Marielle Heller,"Nov 22, 2019",$61.7M,1h 47m,"TriStar Pictures, Sony Pictures Entertainment","Big Beach, TriStar Pictures"
+2020/1/10,19,Queen & Slim,"$542,105","$43,648,410","Crime, Drama, Romance",English,Melina Matsoukas,"Nov 27, 2019",$43.8M,2h 12m,Universal Pictures,
+2020/1/10,20,IP Man: The Finale,"$469,151","$3,646,219",Action,Chinese,Wilson Yip,"Dec 25, 2019",$4.0M,1h 45m,Well Go USA,"Bullet Films, Shanghai Bona Cultural Media, Mandarin Motion Pictures"
+2020/1/17,1,Bad Boys For Life,"$86,644,165","$86,644,165","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/1/17,2,1917,"$33,466,325","$88,083,309","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/1/17,3,Dolittle,"$32,184,730","$32,184,730","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/1/17,4,Jumanji: The Next Level,"$14,632,825","$275,545,800","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/1/17,5,Star Wars: The Rise of Skywalker,"$12,764,339","$496,410,140","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/1/17,6,Little Women,"$10,536,349","$89,027,401","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/1/17,7,Just Mercy,"$9,410,739","$23,023,382",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/1/17,8,Knives Out,"$6,538,535","$148,215,922","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/1/17,9,Frozen II,"$6,111,878","$467,263,568","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/1/17,10,Like a Boss,"$5,913,441","$18,997,029",Comedy,English,Miguel Arteta,"Jan 10, 2020",$22.1M,1h 23m,Paramount Pictures,Artists First
+2020/1/17,11,Underwater,"$5,490,277","$14,710,984","Drama, Adventure",English,John Sturges,,,1h 37m,,RKO Radio Pictures Inc.
+2020/1/17,12,Spies in Disguise,"$4,432,874","$60,259,741","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/1/17,13,Parasite,"$2,950,360","$28,939,005","Horror, Sci-fi",English,,,,1h 30m,,
+2020/1/17,14,Weathering With You,"$2,813,395","$5,859,645","Drama, Fantasy, Anime",Japanese,Makoto Shinkai,"Jan 15, 2020",$7.8M,1h 51m,GKIDS,"Kadokawa, Beijing Enlight Pictures, CoMix Wave Films, China Film Group Corporation, Toho Animation"
+2020/1/17,15,Jojo Rabbit,"$2,445,565","$24,574,637","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/1/17,16,Uncut Gems,"$2,049,756","$46,978,355","Mystery & thriller, Comedy",English,"Benny Safdie, Josh Safdie","Dec 25, 2019",$50.0M,2h 15m,A24,"Elara Pictures, Sikelia Productions, Scott Rudin Productions"
+2020/1/17,17,Ford v. Ferrari,"$1,720,487","$113,530,875","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/1/17,18,The Grudge,"$1,315,023","$20,447,664","Horror, Mystery & thriller",English,Takashi Shimizu,"Oct 22, 2004",$110.2M,1h 30m,Sony Pictures Entertainment,"Senator International, Ghost House Pictures"
+2020/1/17,19,Bombshell,"$1,012,510","$29,677,418",Sci-fi,English,Paul Wynne,,,1h 36m,,
+2020/1/17,20,Once Upon a Time…in Hollywood,"$555,802","$141,713,823","Comedy, Drama",English,Quentin Tarantino,"Jul 26, 2019",$142.4M,2h 39m,"Sony Pictures Entertainment, Columbia Pictures","Columbia Pictures, Bona Film Group, Heyday Films"
+2020/1/24,1,Bad Boys For Life,"$43,732,366","$130,376,531","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/1/24,2,1917,"$21,503,080","$109,586,389","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/1/24,3,Dolittle,"$15,334,090","$47,518,820","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/1/24,4,The Gentlemen,"$14,431,089","$14,431,089","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/1/24,5,Jumanji: The Next Level,"$9,671,353","$285,217,153","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/1/24,6,The Turning,"$8,655,440","$8,655,440",Drama,English,"Jonathan auf der Heide, Tony Ayres, Robert Connolly, Jub Clerc",,,3h 0m,,"Arenamedia, Screen Australia"
+2020/1/24,7,Star Wars: The Rise of Skywalker,"$7,452,881","$503,863,021","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/1/24,8,Little Women,"$6,728,231","$95,755,632","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/1/24,9,Just Mercy,"$5,618,027","$28,641,409",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/1/24,10,Knives Out,"$4,768,842","$152,984,764","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/1/24,11,Frozen II,"$3,373,802","$470,637,370","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/1/24,12,Parasite,"$2,830,271","$31,769,276","Horror, Sci-fi",English,,,,1h 30m,,
+2020/1/24,13,Spies in Disguise,"$2,150,385","$62,410,126","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/1/24,14,Like a Boss,"$2,059,417","$21,056,446",Comedy,English,Miguel Arteta,"Jan 10, 2020",$22.1M,1h 23m,Paramount Pictures,Artists First
+2020/1/24,15,Jojo Rabbit,"$2,053,774","$26,628,411","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/1/24,16,Underwater,"$1,647,822","$16,358,806","Drama, Adventure",English,John Sturges,,,1h 37m,,RKO Radio Pictures Inc.
+2020/1/24,17,The Last Full Measure,"$1,565,443","$1,565,443","War, Drama",English,Todd Robinson,"Jan 24, 2020",$2.9M,1h 56m,Roadside Attractions,"SSS Entertainment, Foresight Unlimited, Provocator, Lightbox Pictures"
+2020/1/24,18,Ford v. Ferrari,"$1,164,979","$114,695,854","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/1/24,19,Weathering With You,"$1,007,918","$6,867,563","Drama, Fantasy, Anime",Japanese,Makoto Shinkai,"Jan 15, 2020",$7.8M,1h 51m,GKIDS,"Kadokawa, Beijing Enlight Pictures, CoMix Wave Films, China Film Group Corporation, Toho Animation"
+2020/1/24,20,Uncut Gems,"$970,998","$47,949,353","Mystery & thriller, Comedy",English,"Benny Safdie, Josh Safdie","Dec 25, 2019",$50.0M,2h 15m,A24,"Elara Pictures, Sikelia Productions, Scott Rudin Productions"
+2020/1/31,1,Bad Boys For Life,"$23,945,676","$154,322,207","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/1/31,2,1917,"$13,956,520","$123,542,909","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/1/31,3,Dolittle,"$9,781,165","$57,299,985","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/1/31,4,The Gentlemen,"$8,240,892","$22,671,981","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/1/31,5,Gretel & Hansel,"$8,024,240","$8,024,240","Horror, Fantasy",English,Oz Perkins,"Jan 31, 2020",$15.3M,1h 27m,Orion Pictures,Automatic Pictures
+2020/1/31,6,Jumanji: The Next Level,"$7,713,258","$292,930,411","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/1/31,7,Little Women,"$4,592,511","$100,348,143","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/1/31,8,Star Wars: The Rise of Skywalker,"$4,458,457","$508,321,478","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/1/31,9,The Turning,"$3,955,890","$12,611,330",Drama,English,"Jonathan auf der Heide, Tony Ayres, Robert Connolly, Jub Clerc",,,3h 0m,,"Arenamedia, Screen Australia"
+2020/1/31,10,The Rhythm Section,"$3,892,991","$3,892,991","Action, Mystery & thriller",English,Reed Morano,"Jan 31, 2020",$4.9M,1h 49m,Paramount Pictures,"Eon Productions Ltd., IM Global"
+2020/1/31,11,Knives Out,"$3,606,886","$156,591,650","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/1/31,12,Just Mercy,"$3,208,703","$31,850,112",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/1/31,13,Frozen II,"$2,296,304","$472,933,674","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/1/31,14,Parasite,"$2,203,002","$33,972,278","Horror, Sci-fi",English,,,,1h 30m,,
+2020/1/31,15,Jojo Rabbit,"$2,118,539","$28,746,950","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/1/31,16,2020 Oscar Shorts,"$1,830,444","$1,830,444",Drama,English,,,,,,
+2020/1/31,17,Spies in Disguise,"$1,505,541","$63,915,667","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/1/31,18,Ford v. Ferrari,"$1,000,838","$115,696,692","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/1/31,19,The Last Full Measure,"$754,482","$2,319,925","War, Drama",English,Todd Robinson,"Jan 24, 2020",$2.9M,1h 56m,Roadside Attractions,"SSS Entertainment, Foresight Unlimited, Provocator, Lightbox Pictures"
+2020/1/31,20,Like a Boss,"$707,427","$21,763,873",Comedy,English,Miguel Arteta,"Jan 10, 2020",$22.1M,1h 23m,Paramount Pictures,Artists First
+2020/2/7,1,Birds of Prey (And the Fantabulous Emancipation…,"$42,158,302","$42,158,302","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/2/7,2,Bad Boys For Life,"$15,700,099","$170,022,306","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/2/7,3,1917,"$12,782,075","$136,324,984","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/2/7,4,Dolittle,"$8,151,530","$65,451,515","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/2/7,5,Jumanji: The Next Level,"$7,085,875","$300,016,286","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/2/7,6,The Gentlemen,"$5,852,082","$28,524,063","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/2/7,7,Gretel & Hansel,"$4,657,677","$12,681,917","Horror, Fantasy",English,Oz Perkins,"Jan 31, 2020",$15.3M,1h 27m,Orion Pictures,Automatic Pictures
+2020/2/7,8,Parasite,"$3,715,266","$37,687,544","Horror, Sci-fi",English,,,,1h 30m,,
+2020/2/7,9,Little Women,"$3,454,863","$103,803,006","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/2/7,10,Star Wars: The Rise of Skywalker,"$3,164,885","$511,486,363","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/2/7,11,Knives Out,"$3,119,367","$159,711,017","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/2/7,12,Just Mercy,"$2,130,054","$33,980,166",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/2/7,13,Jojo Rabbit,"$2,108,358","$30,855,308","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/2/7,14,The Turning,"$1,915,235","$14,526,565",Drama,English,"Jonathan auf der Heide, Tony Ayres, Robert Connolly, Jub Clerc",,,3h 0m,,"Arenamedia, Screen Australia"
+2020/2/7,15,Frozen II,"$1,754,029","$474,687,703","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/2/7,16,The Rhythm Section,"$1,504,516","$5,397,507","Action, Mystery & thriller",English,Reed Morano,"Jan 31, 2020",$4.9M,1h 49m,Paramount Pictures,"Eon Productions Ltd., IM Global"
+2020/2/7,17,Spies in Disguise,"$1,226,737","$65,142,404","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/2/7,18,2020 Oscar Shorts,"$1,122,305","$2,952,749",Drama,English,,,,,,
+2020/2/7,19,Uncut Gems,"$1,013,340","$49,598,853","Mystery & thriller, Comedy",English,"Benny Safdie, Josh Safdie","Dec 25, 2019",$50.0M,2h 15m,A24,"Elara Pictures, Sikelia Productions, Scott Rudin Productions"
+2020/2/7,20,Ford v. Ferrari,"$936,826","$116,633,518","History, Drama, Biography",English,James Mangold,"Nov 15, 2019",$117.6M,2h 32m,20th Century Fox,"Chernin Entertainment, 20th Century Fox"
+2020/2/14,1,Sonic The Hedgehog,"$80,301,671","$80,301,671","Kids & family, Comedy, Adventure, Fantasy",English,Jeff Fowler,,,1h 40m,,"Original Film, Paramount Pictures"
+2020/2/14,2,Birds of Prey (And the Fantabulous Emancipation…,"$23,365,713","$65,524,015","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/2/14,3,Fantasy Island,"$15,987,070","$15,987,070",Adventure,English,Richard Lang,,,1h 40m,,Columbia Pictures Television
+2020/2/14,4,Bad Boys For Life,"$15,293,339","$185,315,645","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/2/14,5,The Photograph,"$14,844,640","$14,844,640",Drama,Indonesian,Nan Triveni Achnas,,,1h 34m,,"Centre national de la Cinématographie, Ministère des Affaires étrangères et du Développement International"
+2020/2/14,6,1917,"$11,262,485","$147,587,469","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/2/14,7,Parasite,"$8,133,945","$45,821,489","Horror, Sci-fi",English,,,,1h 30m,,
+2020/2/14,8,Jumanji: The Next Level,"$7,948,137","$307,964,423","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/2/14,9,Dolittle,"$7,192,775","$72,644,290","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/2/14,10,Downhill,"$5,972,260","$5,972,260","Comedy, Drama",English,James Rouse,,,1h 38m,,
+2020/2/14,11,The Gentlemen,"$3,873,279","$32,397,342","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/2/14,12,Knives Out,"$2,928,170","$162,639,187","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/2/14,13,Little Women,"$2,439,265","$106,242,271","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/2/14,14,Star Wars: The Rise of Skywalker,"$2,077,009","$513,563,372","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/2/14,15,Gretel & Hansel,"$2,050,653","$14,732,570","Horror, Fantasy",English,Oz Perkins,"Jan 31, 2020",$15.3M,1h 27m,Orion Pictures,Automatic Pictures
+2020/2/14,16,Jojo Rabbit,"$1,407,296","$32,262,604","Comedy, Drama",English,Taika Waititi,"Nov 8, 2019",$33.4M,1h 48m,Fox Searchlight,Unison Films
+2020/2/14,17,Frozen II,"$1,388,650","$476,076,353","Kids & family, Musical, Comedy, Adventure, Animation",English,"Chris Buck, Jennifer Lee","Nov 22, 2019",$477.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Walt Disney Animation"
+2020/2/14,18,Just Mercy,"$1,161,474","$35,141,640",Drama,English,Destin Daniel Cretton,"Jan 10, 2020",$36.0M,2h 16m,Warner Bros. Pictures,Netter Productions
+2020/2/14,19,Spies in Disguise,"$827,255","$65,969,659","Kids & family, Comedy, Adventure, Action, Animation",English,"Troy Quane, Nick Bruno","Dec 25, 2019",$66.7M,1h 42m,20th Century Fox,"Twentieth Century Fox Animation, Chernin Entertainment, Blue Sky Studios"
+2020/2/14,20,The Turning,"$691,670","$15,218,235",Drama,English,"Jonathan auf der Heide, Tony Ayres, Robert Connolly, Jub Clerc",,,3h 0m,,"Arenamedia, Screen Australia"
+2020/2/21,1,The Call of the Wild,"$32,804,038","$32,804,038",Action,,D.W. Griffith,,,16m,,American Mutoscope & Biograph
+2020/2/21,2,Sonic The Hedgehog,"$31,991,981","$112,293,652","Kids & family, Comedy, Adventure, Fantasy",English,Jeff Fowler,,,1h 40m,,"Original Film, Paramount Pictures"
+2020/2/21,3,Birds of Prey (And the Fantabulous Emancipation…,"$9,223,724","$74,747,739","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/2/21,4,Bad Boys For Life,"$7,752,740","$193,068,385","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/2/21,5,Brahms: The Boy II,"$7,147,619","$7,147,619","Horror, Mystery & thriller",English,William Brent Bell,"Feb 21, 2020",$12.6M,1h 26m,STX Films,"STX Entertainment, Vertigo Entertainment, Lakeshore Entertainment"
+2020/2/21,6,Fantasy Island,"$5,742,583","$21,729,653",Adventure,English,Richard Lang,,,1h 40m,,Columbia Pictures Television
+2020/2/21,7,1917,"$5,609,600","$153,197,069","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/2/21,8,Parasite,"$4,225,522","$50,047,011","Horror, Sci-fi",English,,,,1h 30m,,
+2020/2/21,9,The Photograph,"$3,733,115","$18,577,755",Drama,Indonesian,Nan Triveni Achnas,,,1h 34m,,"Centre national de la Cinématographie, Ministère des Affaires étrangères et du Développement International"
+2020/2/21,10,Jumanji: The Next Level,"$3,641,487","$311,605,910","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/2/21,11,My Hero Academia: Heroes: Rising,"$3,403,332","$3,403,332","Action, Adventure, Anime",Japanese,Kenji Nagasaki,"Feb 26, 2020",$13.3M,1h 44m,Funimation,Bones
+2020/2/21,12,Impractical Jokers: The Movie,"$3,077,091","$3,077,091",Comedy,English,Chris Henchy,"Feb 28, 2020",$10.2M,1h 33m,truTV,"Funny or Die, truTV"
+2020/2/21,13,Dolittle,"$2,355,765","$75,000,055","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/2/21,14,Downhill,"$1,981,500","$7,953,760","Comedy, Drama",English,James Rouse,,,1h 38m,,
+2020/2/21,15,My Boyfriend’s Meds,"$1,737,426","$1,737,426",Comedy,Spanish,Diego Kaplan,"Feb 21, 2020",$3.0M,1h 40m,"Lionsgate Films, Pantelion Films","Lionsgate, Traziende Films, Fuego Films"
+2020/2/21,16,The Gentlemen,"$1,679,129","$34,076,471","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/2/21,17,Knives Out,"$1,386,056","$164,025,243","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/2/21,18,Portrait of a Lady on Fire,"$988,174","$1,723,288","History, Drama, Lgbtq+",French (France),Céline Sciamma,"Dec 6, 2019",$3.8M,2h 1m,Neon,"Lilies Films, Hold Up Films, arte France Cinéma"
+2020/2/21,19,Little Women,"$987,875","$107,230,146","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/2/21,20,The Lodge,"$888,216","$1,184,498","Horror, Mystery & thriller",English,"Veronika Franz, Severin Fiala","Feb 7, 2020",$2.1M,1h 48m,Neon,"Hammer Films, FilmNation"
+2020/2/28,1,The Invisible Man,"$37,543,570","$37,543,570",Sci-fi,English,Robert Lewis,,,1h 14m,,
+2020/2/28,2,Sonic The Hedgehog,"$20,524,500","$132,818,152","Kids & family, Comedy, Adventure, Fantasy",English,Jeff Fowler,,,1h 40m,,"Original Film, Paramount Pictures"
+2020/2/28,3,The Call of the Wild,"$17,679,700","$50,483,738",Action,,D.W. Griffith,,,16m,,American Mutoscope & Biograph
+2020/2/28,4,My Hero Academia: Heroes: Rising,"$7,792,075","$11,195,407","Action, Adventure, Anime",Japanese,Kenji Nagasaki,"Feb 26, 2020",$13.3M,1h 44m,Funimation,Bones
+2020/2/28,5,Bad Boys For Life,"$5,909,718","$198,978,103","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/2/28,6,Birds of Prey (And the Fantabulous Emancipation…,"$5,652,843","$80,400,582","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/2/28,7,Impractical Jokers: The Movie,"$4,550,000","$7,627,091",Comedy,English,Chris Henchy,"Feb 28, 2020",$10.2M,1h 33m,truTV,"Funny or Die, truTV"
+2020/2/28,8,1917,"$3,727,025","$156,924,094","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/2/28,9,Brahms: The Boy II,"$3,384,235","$10,531,854","Horror, Mystery & thriller",English,William Brent Bell,"Feb 21, 2020",$12.6M,1h 26m,STX Films,"STX Entertainment, Vertigo Entertainment, Lakeshore Entertainment"
+2020/2/28,10,Fantasy Island,"$3,201,244","$24,930,897",Adventure,English,Richard Lang,,,1h 40m,,Columbia Pictures Television
+2020/2/28,11,Jumanji: The Next Level,"$2,925,684","$314,531,594","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/2/28,12,Parasite,"$2,126,439","$52,173,450","Horror, Sci-fi",English,,,,1h 30m,,
+2020/2/28,13,Emma.,"$1,590,615","$1,892,065","Romance, Drama",English (United Kingdom),Autumn de Wilde,"Mar 6, 2020",$9.9M,2h 5m,Focus Features,"Working Title Films, Perfect World Pictures, Blueprint Pictures"
+2020/2/28,14,The Gentlemen,"$1,567,713","$35,644,184","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/2/28,15,Dolittle,"$1,475,475","$76,475,530","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/2/28,16,The Photograph,"$1,436,295","$20,014,050",Drama,Indonesian,Nan Triveni Achnas,,,1h 34m,,"Centre national de la Cinématographie, Ministère des Affaires étrangères et du Développement International"
+2020/2/28,17,Portrait of a Lady on Fire,"$1,098,993","$2,822,281","History, Drama, Lgbtq+",French (France),Céline Sciamma,"Dec 6, 2019",$3.8M,2h 1m,Neon,"Lilies Films, Hold Up Films, arte France Cinéma"
+2020/2/28,18,Knives Out,"$837,202","$164,862,445","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/2/28,19,My Boyfriend’s Meds,"$810,979","$2,548,405",Comedy,Spanish,Diego Kaplan,"Feb 21, 2020",$3.0M,1h 40m,"Lionsgate Films, Pantelion Films","Lionsgate, Traziende Films, Fuego Films"
+2020/2/28,20,Little Women,"$576,939","$107,807,085","Drama, Musical",English,William Corrigan,,,1h 10m,,CBS
+2020/3/6,1,Onward,"$49,758,687","$49,758,687","Kids & family, Comedy, Adventure, Fantasy, Animation",English,Dan Scanlon,"Mar 6, 2020",$60.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Pixar Animation Studios"
+2020/3/6,2,The Invisible Man,"$20,876,115","$58,419,685",Sci-fi,English,Robert Lewis,,,1h 14m,,
+2020/3/6,3,The Way Back,"$11,020,873","$11,020,873",Drama,English,Peter Weir,"Jan 21, 2011",$2.7M,2h 13m,Newmarket Film Group,Exclusive Films
+2020/3/6,4,Sonic The Hedgehog,"$10,413,176","$143,231,328","Kids & family, Comedy, Adventure, Fantasy",English,Jeff Fowler,,,1h 40m,,"Original Film, Paramount Pictures"
+2020/3/6,5,The Call of the Wild,"$9,382,173","$59,865,911",Action,,D.W. Griffith,,,16m,,American Mutoscope & Biograph
+2020/3/6,6,Emma.,"$6,743,910","$8,635,975","Romance, Drama",English (United Kingdom),Autumn de Wilde,"Mar 6, 2020",$9.9M,2h 5m,Focus Features,"Working Title Films, Perfect World Pictures, Blueprint Pictures"
+2020/3/6,7,Bad Boys For Life,"$4,214,298","$203,192,401","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/3/6,8,Birds of Prey (And the Fantabulous Emancipation…,"$3,107,975","$83,508,557","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/3/6,9,Impractical Jokers: The Movie,"$2,419,000","$10,046,091",Comedy,English,Chris Henchy,"Feb 28, 2020",$10.2M,1h 33m,truTV,"Funny or Die, truTV"
+2020/3/6,10,My Hero Academia: Heroes: Rising,"$2,358,419","$13,553,826","Action, Adventure, Anime",Japanese,Kenji Nagasaki,"Feb 26, 2020",$13.3M,1h 44m,Funimation,Bones
+2020/3/6,11,1917,"$1,922,935","$158,847,029","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/3/6,12,Jumanji: The Next Level,"$1,830,810","$316,362,404","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/3/6,13,Brahms: The Boy II,"$1,696,949","$12,228,803","Horror, Mystery & thriller",English,William Brent Bell,"Feb 21, 2020",$12.6M,1h 26m,STX Films,"STX Entertainment, Vertigo Entertainment, Lakeshore Entertainment"
+2020/3/6,14,Fantasy Island,"$1,250,282","$26,181,179",Adventure,English,Richard Lang,,,1h 40m,,Columbia Pictures Television
+2020/3/6,15,Parasite,"$974,394","$53,147,844","Horror, Sci-fi",English,,,,1h 30m,,
+2020/3/6,16,Portrait of a Lady on Fire,"$766,773","$3,589,054","History, Drama, Lgbtq+",French (France),Céline Sciamma,"Dec 6, 2019",$3.8M,2h 1m,Neon,"Lilies Films, Hold Up Films, arte France Cinéma"
+2020/3/6,17,Baaghi 3,"$666,661","$666,661","Action, Romance",Hindi,Ahmed Khan,"Mar 6, 2020",$716.9K,2h 23m,FIP,"Fox Star Studios, Nadiadwala Grandson Entertainment"
+2020/3/6,18,The Gentlemen,"$546,481","$36,190,665","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/3/6,19,Dolittle,"$485,445","$76,960,975","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/3/6,20,The Photograph,"$470,270","$20,484,320",Drama,Indonesian,Nan Triveni Achnas,,,1h 34m,,"Centre national de la Cinématographie, Ministère des Affaires étrangères et du Développement International"
+2020/3/13,1,Onward,"$11,796,458","$61,555,145","Kids & family, Comedy, Adventure, Fantasy, Animation",English,Dan Scanlon,"Mar 6, 2020",$60.4M,1h 43m,Walt Disney,"Walt Disney Pictures, Pixar Animation Studios"
+2020/3/13,2,Bloodshot,"$10,021,787","$10,021,787","Horror, Romance",English (United Kingdom),Raoul Girard,,,1h 42m,,
+2020/3/13,3,I Still Believe,"$9,868,521","$9,868,521","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/3/13,4,The Invisible Man,"$6,494,365","$64,914,050",Sci-fi,English,Robert Lewis,,,1h 14m,,
+2020/3/13,5,The Hunt,"$5,812,500","$5,812,500",Mystery & thriller,Italian,Giuseppe Bennati,,,1h 26m,,
+2020/3/13,6,Sonic The Hedgehog,"$2,835,142","$146,066,470","Kids & family, Comedy, Adventure, Fantasy",English,Jeff Fowler,,,1h 40m,,"Original Film, Paramount Pictures"
+2020/3/13,7,The Way Back,"$2,569,641","$13,590,514",Drama,English,Peter Weir,"Jan 21, 2011",$2.7M,2h 13m,Newmarket Film Group,Exclusive Films
+2020/3/13,8,The Call of the Wild,"$2,476,457","$62,342,368",Action,,D.W. Griffith,,,16m,,American Mutoscope & Biograph
+2020/3/13,9,Emma.,"$1,419,380","$10,055,355","Romance, Drama",English (United Kingdom),Autumn de Wilde,"Mar 6, 2020",$9.9M,2h 5m,Focus Features,"Working Title Films, Perfect World Pictures, Blueprint Pictures"
+2020/3/13,10,Bad Boys For Life,"$1,225,454","$204,417,855","Action, Comedy",English,"Adil El Arbi, Bilall Fallah","Jan 17, 2020",$204.3M,2h 4m,"Columbia Pictures, Sony Pictures Entertainment","2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures"
+2020/3/13,11,Birds of Prey (And the Fantabulous Emancipation…,"$649,904","$84,158,461","Action, Comedy",English,Cathy Yan,"Feb 7, 2020",$84.1M,1h 49m,Warner Bros. Pictures,"DC Entertainment, Clubhouse Pictures (II), Kroll & Co. Entertainment"
+2020/3/13,12,Jumanji: The Next Level,"$468,842","$316,831,246","Adventure, Action, Comedy, Fantasy",English,Jake Kasdan,"Dec 13, 2019",$316.8M,2h 3m,"Columbia Pictures, Sony Pictures Entertainment","Matt Tolmach Productions, The Detective Agency, Seven Bucks Productions"
+2020/3/13,13,Brahms: The Boy II,"$382,733","$12,611,536","Horror, Mystery & thriller",English,William Brent Bell,"Feb 21, 2020",$12.6M,1h 26m,STX Films,"STX Entertainment, Vertigo Entertainment, Lakeshore Entertainment"
+2020/3/13,14,1917,"$380,615","$159,227,644","War, History, Drama",English,Sam Mendes,"Jan 10, 2020",$159.2M,1h 59m,Universal Pictures,"Neal Street Productions, Amblin Entertainment"
+2020/3/13,15,Fantasy Island,"$260,603","$26,441,782",Adventure,English,Richard Lang,,,1h 40m,,Columbia Pictures Television
+2020/3/13,16,The Gentlemen,"$106,189","$36,296,854","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/3/13,17,The Photograph,"$93,865","$20,578,185",Drama,Indonesian,Nan Triveni Achnas,,,1h 34m,,"Centre national de la Cinématographie, Ministère des Affaires étrangères et du Développement International"
+2020/3/13,18,Knives Out,"$93,503","$165,363,254","Mystery & thriller, Comedy, Drama",English,Rian Johnson,"Nov 27, 2019",$165.4M,2h 10m,Lionsgate Films,"FilmNation Entertainment, Media Rights Capital"
+2020/3/13,19,Star Wars: The Rise of Skywalker,"$86,768","$515,202,542","Sci-fi, Adventure, Action, Fantasy",English,J.J. Abrams,"Dec 20, 2019",$515.2M,2h 22m,Walt Disney,"Lucasfilm Ltd., Bad Robot"
+2020/3/13,20,Dolittle,"$86,090","$77,047,065","Kids & family, Fantasy, Adventure, Comedy",English,Stephen Gaghan,"Jan 17, 2020",$77.0M,1h 40m,Universal Pictures,"Perfect World Pictures, Universal Pictures, Team Downey"
+2020/3/20,1,I Still Believe,"$37,812","$9,906,333","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/3/20,2,Saint Frances,"$24,480","$60,355","Comedy, Drama",English,Alex Thompson,"Feb 28, 2020",$16.1K,1h 46m,Oscilloscope Laboratories,
+2020/3/20,3,"Phoenix, Oregon","$5,155","$23,511","Comedy, Drama",English,Gary Lundgren,,,1h 48m,,Joma Films
+2020/3/20,4,Be Natural: The Untold Story Of Alice Guy-Blaché,$198,"$115,492",Documentary,English,Pamela B. Green,"Mar 15, 2019",$101.1K,1h 43m,"Zeitgeist Films, Kino Lorber",Wildwood Enterprises
+2020/3/20,5,Lost in America,$102,"$11,301",Comedy,English,Albert Brooks,"Feb 8, 1985",,1h 31m,,"Marty Katz Productions, The Geffen Company"
+2020/3/27,1,Saint Frances,"$22,771","$83,126","Comedy, Drama",English,Alex Thompson,"Feb 28, 2020",$16.1K,1h 46m,Oscilloscope Laboratories,
+2020/3/27,2,I Still Believe,"$17,942","$9,924,275","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/3/27,3,Strike,"$2,802","$2,802",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/3/27,4,"Phoenix, Oregon","$2,256","$25,767","Comedy, Drama",English,Gary Lundgren,,,1h 48m,,Joma Films
+2020/4/3,1,Saint Frances,"$18,129","$101,255","Comedy, Drama",English,Alex Thompson,"Feb 28, 2020",$16.1K,1h 46m,Oscilloscope Laboratories,
+2020/4/3,2,I Still Believe,"$4,459","$9,928,734","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/4/3,3,"Phoenix, Oregon","$3,855","$29,622","Comedy, Drama",English,Gary Lundgren,,,1h 48m,,Joma Films
+2020/4/3,4,The Other Lamb,"$2,070","$2,070","Drama, Horror",English,Małgorzata Szumowska,"Apr 3, 2020",$6.0K,1h 37m,IFC Midnight,"Subotica Entertainment, Rooks Nest Entertainment"
+2020/4/3,5,Best of Catvideofest,"$1,026","$1,026",,,,,,,,
+2020/4/10,1,Best of Catvideofest,"$20,541","$21,567",,,,,,,,
+2020/4/10,2,Saint Frances,"$15,397","$116,652","Comedy, Drama",English,Alex Thompson,"Feb 28, 2020",$16.1K,1h 46m,Oscilloscope Laboratories,
+2020/4/10,3,"Monero Means Money: Cryptocurrency 101, Live fr…","$3,500","$3,500",,,,,,,,
+2020/4/10,4,Swallow,"$2,787","$29,156",Mystery & thriller,English,Carlo Mirabella-Davis,"Mar 6, 2020",$31.3K,1h 35m,IFC Films,"Syncopated Films, Charades, Stand Alone Productions, Logical Pictures"
+2020/4/10,5,The Other Lamb,"$2,490","$4,560","Drama, Horror",English,Małgorzata Szumowska,"Apr 3, 2020",$6.0K,1h 37m,IFC Midnight,"Subotica Entertainment, Rooks Nest Entertainment"
+2020/4/17,1,Other Music,"$37,191","$37,191","Documentary, Musical",,"Puloma Basu, Rob Hatch-Miller","Apr 15, 2020",,1h 23m,Factory 25,
+2020/4/17,2,Best of Catvideofest,"$12,720","$34,287",,,,,,,,
+2020/4/17,3,I Still Believe,"$11,204","$9,942,768","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/4/17,4,Saint Frances,"$10,623","$127,275","Comedy, Drama",English,Alex Thompson,"Feb 28, 2020",$16.1K,1h 46m,Oscilloscope Laboratories,
+2020/4/17,6,Resistance,"$4,263","$4,263",Drama,English,"Ken McMullen, Christopher Rodrigues",,,1h 30m,,
+2020/4/17,5,Swallow,"$4,263","$33,419",Mystery & thriller,English,Carlo Mirabella-Davis,"Mar 6, 2020",$31.3K,1h 35m,IFC Films,"Syncopated Films, Charades, Stand Alone Productions, Logical Pictures"
+2020/4/17,7,"Monero Means Money: Cryptocurrency 101, Live fr…",$330,"$3,830",,,,,,,,
+2020/4/24,1,I Still Believe,"$15,448","$9,958,216","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/4/24,2,True History Of The Kelly Gang,"$15,030","$15,030","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/4/24,3,Resistance,"$3,201","$7,464",Drama,English,"Ken McMullen, Christopher Rodrigues",,,1h 30m,,
+2020/5/1,1,The Wretched,"$95,686","$95,686",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/5/1,2,I Still Believe,"$52,382","$10,010,598","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/5/1,3,Disappearance at Clifton Hill,"$18,466","$21,915","Drama, Mystery & thriller",English,Albert Shin,"Feb 28, 2020",$23.7K,1h 40m,IFC Midnight,Rhombus Media
+2020/5/1,4,True History Of The Kelly Gang,"$16,010","$31,040","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/5/1,5,The Other Lamb,"$1,199","$6,024","Drama, Horror",English,Małgorzata Szumowska,"Apr 3, 2020",$6.0K,1h 37m,IFC Midnight,"Subotica Entertainment, Rooks Nest Entertainment"
+2020/5/8,1,The Wretched,"$116,271","$211,957",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/5/8,2,I Still Believe,"$51,595","$10,062,193","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/5/8,3,How to Build a Girl,"$19,802","$19,802",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/5/8,4,Disappearance at Clifton Hill,"$3,169","$25,084","Drama, Mystery & thriller",English,Albert Shin,"Feb 28, 2020",$23.7K,1h 40m,IFC Midnight,Rhombus Media
+2020/5/8,5,True History Of The Kelly Gang,"$1,909","$32,949","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/5/8,6,The Burnt Orange Heresy,$145,"$39,733",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/5/15,1,The Wretched,"$150,652","$362,609",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/5/15,2,I Still Believe,"$62,577","$10,124,770","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/5/15,3,How to Build a Girl,"$47,708","$67,510",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/5/15,4,Circles: The Restorative Justice Project,"$5,763","$5,763",,,,,,,,
+2020/5/15,5,Strike,"$5,226","$5,226",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/5/15,6,The Burnt Orange Heresy,$100,"$39,833",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/5/22,1,The Wretched,"$297,319","$659,928",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/5/22,2,I Still Believe,"$40,501","$10,165,271","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/5/22,3,Strike,"$3,805","$9,031",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/5/22,4,Circles: The Restorative Justice Project,"$2,674","$8,437",,,,,,,,
+2020/5/22,5,The Trip to Greece,"$1,365","$1,365","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/5/22,6,How to Build a Girl,"$1,347","$68,857",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/5/22,7,True History Of The Kelly Gang,$324,"$33,343","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/5/22,8,The Burnt Orange Heresy,$60,"$39,893",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/5/29,-,The Wretched,"$253,717","$913,645",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/5/29,-,I Still Believe,"$30,844","$10,196,115","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/5/29,-,Strike,"$1,802","$10,833",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/5/29,-,Circles: The Restorative Justice Project,"$1,284","$9,721",,,,,,,,
+2020/5/29,-,Max Winslow and the House of Secrets,"$1,129","$1,129","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/5/29,-,The Trip to Greece,$594,"$1,959","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/5/29,-,How to Build a Girl,$298,"$69,155",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/5/29,-,True History Of The Kelly Gang,$53,"$33,434","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/6/5,-,The Wretched,"$310,035","$1,223,680",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/6/5,-,Becky,"$294,432","$294,432","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/6/5,-,I Still Believe,"$43,257","$10,239,372","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/6/5,-,Max Winslow and the House of Secrets,"$2,632","$3,761","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/6/5,-,Sex and the Future,"$1,240","$1,240",Comedy,English,"Luis Carlos Hueck, Ethan Zvi Kaplan","Jun 5, 2020",$5.7K,1h 20m,Indican Pictures,Don Kap Productions
+2020/6/5,-,Strike,"$1,239","$12,072",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/6/5,-,The Gentlemen,"$1,092","$36,298,217","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/6/5,-,How to Build a Girl,"$1,082","$70,237",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/6/5,-,The Fox Hunter,$780,$780,Comedy,English,Patrick Shanahan,"Jun 5, 2020",$1.5K,1h 27m,Indican Pictures,Denim Buffalo Films
+2020/6/5,-,The Trip to Greece,$548,"$2,507","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/6/5,-,Circles: The Restorative Justice Project,$539,"$10,260",,,,,,,,
+2020/6/12,-,Becky,"$270,848","$565,280","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/6/12,-,The Wretched,"$243,432","$1,467,112",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/6/12,-,Infamous,"$215,752","$215,752","Drama, Lgbtq+",English,Douglas McGrath,"Oct 13, 2006",$1.2M,1h 58m,Warner Independent,Jack & Henry Prods./Killer Films
+2020/6/12,-,I Still Believe,"$34,980","$10,274,352","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/6/12,-,The Gentlemen,"$5,290","$36,303,507","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/6/12,-,Max Winslow and the House of Secrets,"$4,034","$7,795","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/6/12,-,Strike,"$3,151","$15,223",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/6/12,-,The Trip to Greece,"$2,855","$5,362","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/6/12,-,Sex and the Future,$565,"$1,805",Comedy,English,"Luis Carlos Hueck, Ethan Zvi Kaplan","Jun 5, 2020",$5.7K,1h 20m,Indican Pictures,Don Kap Productions
+2020/6/12,-,The Fox Hunter,$271,"$1,051",Comedy,English,Patrick Shanahan,"Jun 5, 2020",$1.5K,1h 27m,Indican Pictures,Denim Buffalo Films
+2020/6/12,-,True History Of The Kelly Gang,$232,"$33,666","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/6/12,-,How to Build a Girl,$21,"$70,258",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/6/19,-,Followed,"$246,704","$249,646",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/6/19,-,Becky,"$179,860","$745,140","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/6/19,-,Infamous,"$140,388","$356,140","Drama, Lgbtq+",English,Douglas McGrath,"Oct 13, 2006",$1.2M,1h 58m,Warner Independent,Jack & Henry Prods./Killer Films
+2020/6/19,-,The Wretched,"$116,570","$1,583,682",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/6/19,-,StarDog and TurboCat,"$50,445","$50,445","Kids & family, Comedy, Adventure, Animation",English (United Kingdom),Ben Smith,"Jun 19, 2020",,1h 31m,Viva Kids,"Brilliant Casting, Red Star 3D, Kaleidoscope Entertainment, Metrol Technology, Screen Yorkshire, Head Gear Films, Particular Crowd"
+2020/6/19,-,I Still Believe,"$27,946","$10,302,298","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/6/19,-,Max Winslow and the House of Secrets,"$4,108","$11,903","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/6/19,-,Babyteeth,"$3,783","$3,783","Comedy, Drama",English (Australia),Shannon Murphy,,$4.3K,1h 57m,,"Screen Australia, Whitefalk Films, Create NSW"
+2020/6/19,-,The Gentlemen,"$2,118","$36,305,625","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/6/19,-,The Trip to Greece,"$1,302","$6,664","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/6/19,-,Strike,$535,"$15,758",Comedy,English,Tommy Reid,,,1h 30m,,
+2020/6/19,-,Sex and the Future,$391,"$2,196",Comedy,English,"Luis Carlos Hueck, Ethan Zvi Kaplan","Jun 5, 2020",$5.7K,1h 20m,Indican Pictures,Don Kap Productions
+2020/6/19,-,How to Build a Girl,$374,"$70,632",Comedy,English (United Kingdom),Coky Giedroyc,,$70.5K,1h 42m,,"Film 4, Monumental Pictures, Lionsgate"
+2020/6/19,-,True History Of The Kelly Gang,$150,"$33,816","Crime, Drama, Biography",English (Australia),Justin Kurzel,"Apr 24, 2020",$33.8K,2h 4m,IFC Films,"Screen Australia, Film4, Porchlight Films, Film Victoria, Daybreak Pictures, La Cinéfacture"
+2020/6/26,-,Followed,"$149,883","$399,529",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/6/26,-,Becky,"$127,349","$872,489","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/6/26,-,The Wretched,"$75,957","$1,659,639",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/6/26,-,Infamous,"$68,805","$424,945","Drama, Lgbtq+",English,Douglas McGrath,"Oct 13, 2006",$1.2M,1h 58m,Warner Independent,Jack & Henry Prods./Killer Films
+2020/6/26,-,StarDog and TurboCat,"$29,878","$80,323","Kids & family, Comedy, Adventure, Animation",English (United Kingdom),Ben Smith,"Jun 19, 2020",,1h 31m,Viva Kids,"Brilliant Casting, Red Star 3D, Kaleidoscope Entertainment, Metrol Technology, Screen Yorkshire, Head Gear Films, Particular Crowd"
+2020/6/26,-,I Still Believe,"$16,023","$10,318,321","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/6/26,-,Max Winslow and the House of Secrets,"$8,367","$20,270","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/6/26,-,The Gentlemen,"$5,067","$36,310,692","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/6/26,-,The Last Tree,"$4,071","$4,071",Drama,English (United Kingdom),Shola Amoo,"Jun 26, 2020",,1h 40m,ArtMattan Films,"Prodigal Film & TV, British Film Institute, Privateer Pictures"
+2020/6/26,-,The Trip to Greece,"$1,676","$8,340","Comedy, Drama",English,Michael Winterbottom,"May 22, 2020",$7.7K,1h 52m,IFC Films,Revolution Films
+2020/6/26,-,Babyteeth,$724,"$4,507","Comedy, Drama",English (Australia),Shannon Murphy,,$4.3K,1h 57m,,"Screen Australia, Whitefalk Films, Create NSW"
+2020/6/26,-,The Transcendents,$564,$564,"Mystery & thriller, Music",English,Derek Ahonen,,$2.0K,1h 36m,,
+2020/7/3,-,Relic,"$345,396","$345,396","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/7/3,-,The Outpost,"$43,965","$43,965",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/7/3,-,Followed,"$42,736","$442,265",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/7/3,-,Becky,"$42,689","$915,178","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/7/3,-,The Wretched,"$40,590","$1,700,229",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/7/3,-,Max Winslow and the House of Secrets,"$10,982","$31,252","Fantasy, Mystery & thriller",English,Sean Olson,,,1h 38m,,"Skipstone Pictures, Standing Room Only Cinema"
+2020/7/3,-,I Still Believe,"$10,116","$10,328,437","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/7/3,-,The Gentlemen,"$4,518","$36,315,210","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/7/3,-,Infamous,"$4,203","$429,148","Drama, Lgbtq+",English,Douglas McGrath,"Oct 13, 2006",$1.2M,1h 58m,Warner Independent,Jack & Henry Prods./Killer Films
+2020/7/3,-,The Last Tree,"$3,584","$7,655",Drama,English (United Kingdom),Shola Amoo,"Jun 26, 2020",,1h 40m,ArtMattan Films,"Prodigal Film & TV, British Film Institute, Privateer Pictures"
+2020/7/3,-,The Truth,"$2,777","$2,777",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/7/3,-,Sex and the Future,$811,"$3,101",Comedy,English,"Luis Carlos Hueck, Ethan Zvi Kaplan","Jun 5, 2020",$5.7K,1h 20m,Indican Pictures,Don Kap Productions
+2020/7/3,-,StarDog and TurboCat,$75,"$80,398","Kids & family, Comedy, Adventure, Animation",English (United Kingdom),Ben Smith,"Jun 19, 2020",,1h 31m,Viva Kids,"Brilliant Casting, Red Star 3D, Kaleidoscope Entertainment, Metrol Technology, Screen Yorkshire, Head Gear Films, Particular Crowd"
+2020/7/10,-,Relic,"$302,672","$648,068","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/7/10,-,Archive,"$79,869","$79,869",Sci-fi,English (United Kingdom),Gavin Rothery,"Jul 10, 2020",$118.7K,1h 45m,Vertical Entertainment,"Metrol Technology, Independent, Head Gear Films, Hero Squared, Untapped"
+2020/7/10,-,Followed,"$43,801","$486,066",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/7/10,-,The Outpost,"$32,674","$76,639",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/7/10,-,The Wretched,"$21,584","$1,721,813",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/7/10,-,I Still Believe,"$9,632","$10,338,069","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/7/10,-,The Gentlemen,"$7,040","$36,322,250","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/7/10,-,The Truth,"$2,496","$5,273",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/7/10,-,Guest Artist,"$1,786","$1,786",Drama,English,Timothy Busfield,,$7.0K,1h 14m,,Grand River Productions
+2020/7/10,-,The Last Tree,"$1,692","$9,347",Drama,English (United Kingdom),Shola Amoo,"Jun 26, 2020",,1h 40m,ArtMattan Films,"Prodigal Film & TV, British Film Institute, Privateer Pictures"
+2020/7/10,-,The Fox Hunter,$526,"$1,577",Comedy,English,Patrick Shanahan,"Jun 5, 2020",$1.5K,1h 27m,Indican Pictures,Denim Buffalo Films
+2020/7/10,-,The Transcendents,$526,"$1,090","Mystery & thriller, Music",English,Derek Ahonen,,$2.0K,1h 36m,,
+2020/7/17,-,Relic,"$254,326","$902,394","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/7/17,-,The Outpost,"$61,698","$138,337",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/7/17,-,Archive,"$59,724","$139,593",Sci-fi,English (United Kingdom),Gavin Rothery,"Jul 10, 2020",$118.7K,1h 45m,Vertical Entertainment,"Metrol Technology, Independent, Head Gear Films, Hero Squared, Untapped"
+2020/7/17,-,Followed,"$41,463","$527,529",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/7/17,-,The Wretched,"$26,535","$1,748,348",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/7/17,-,The Gentlemen,"$10,231","$36,332,481","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/7/17,-,Human Capital,"$6,596","$6,596",Drama,Italian,Paolo Virzì,,$157.3K,1h 49m,,"Doco Digital, RAI Cinema, Motorino Amaranto, Indiana Production Company"
+2020/7/17,-,I Still Believe,"$6,123","$10,344,192","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/7/17,-,The Truth,"$2,933","$8,206",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/7/17,-,Guest Artist,"$1,638","$3,424",Drama,English,Timothy Busfield,,$7.0K,1h 14m,,Grand River Productions
+2020/7/17,-,The Painted Bird,$754,$754,Drama,Czech,Václav Marhoul,"Jul 17, 2020",$1.3K,2h 49m,IFC Films,"PubRes, Silver Screen Partners II"
+2020/7/24,1,The Rental,"$598,510","$598,510","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/7/24,2,The Big Ugly,"$229,382","$229,382","Crime, Drama",English,Scott Wiper,,$502.4K,1h 46m,,4G Vision
+2020/7/24,-,Relic,"$90,683","$993,077","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/7/24,-,The Wretched,"$29,540","$1,777,888",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/7/24,-,The Outpost,"$18,021","$156,358",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/7/24,-,The Gentlemen,"$10,320","$36,342,801","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/7/24,-,Followed,"$6,773","$534,302",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/7/24,-,I Still Believe,"$3,792","$10,347,984","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/7/24,-,Guest Artist,"$1,293","$4,717",Drama,English,Timothy Busfield,,$7.0K,1h 14m,,Grand River Productions
+2020/7/24,-,The Truth,$719,"$8,925",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/7/24,-,The Painted Bird,$706,"$1,460",Drama,Czech,Václav Marhoul,"Jul 17, 2020",$1.3K,2h 49m,IFC Films,"PubRes, Silver Screen Partners II"
+2020/7/31,1,The Rental,"$456,222","$1,054,732","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/7/31,2,The Big Ugly,"$145,168","$374,550","Crime, Drama",English,Scott Wiper,,$502.4K,1h 46m,,4G Vision
+2020/7/31,-,Summerland,"$38,335","$38,335",Comedy,Icelandic,Grímur Hákonarson,,,1h 25m,,
+2020/7/31,-,The Wretched,"$20,362","$1,798,250",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/7/31,-,Relic,"$14,395","$1,007,472","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/7/31,-,The Outpost,"$12,773","$169,131",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/7/31,-,The Gentlemen,"$9,403","$36,352,204","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/7/31,-,I Still Believe,"$4,575","$10,352,559","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/7/31,-,Killer Raccoons 2: Dark Christmas in the Dark,"$4,476","$4,476","Holiday, Comedy, Action",English,Travis Irvine,,$15.1K,1h 36m,,"Overbites Pictures, Studio Vista"
+2020/7/31,-,What We Found,"$3,931","$3,931",Mystery & thriller,English,Ben Hickernell,"Jul 31, 2020",$6.8K,1h 50m,,"Reconstruction Pictures, Create Entertainment"
+2020/7/31,-,Followed,"$3,389","$537,691",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/7/31,-,Guest Artist,"$1,189","$5,906",Drama,English,Timothy Busfield,,$7.0K,1h 14m,,Grand River Productions
+2020/7/31,-,The Truth,$429,"$9,354",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/8/7,1,The Tax Collector,"$430,423","$430,423","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/8/7,-,The Rental,"$224,544","$1,279,276","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/8/7,-,Train to Busan Presents: Peninsula,"$194,086","$194,086","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/8/7,-,The Big Ugly,"$105,583","$480,133","Crime, Drama",English,Scott Wiper,,$502.4K,1h 46m,,4G Vision
+2020/8/7,-,Made in Italy,"$52,332","$52,332","Comedy, Drama",English (United Kingdom),James D'Arcy,"Aug 7, 2020",$101.1K,1h 34m,IFC Films,"CrossDay Productions Ltd., Indiana Production Company"
+2020/8/7,-,The Burnt Orange Heresy,"$40,988","$80,881",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/8/7,-,Becky,"$39,081","$1,002,852","Romance, Comedy",,John P. McCarthy,"Nov 12, 1927",,58m,Metro-Goldwyn-Mayer,
+2020/8/7,-,Relic,"$26,414","$1,033,886","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/8/7,-,Juvenile Delinquents,"$16,060","$16,060",Drama,English,Neil Goss,,$34.3K,1h 58m,,"Big Bull Productions, Buffalo 8 Productions"
+2020/8/7,-,Summerland,"$11,949","$50,284",Comedy,Icelandic,Grímur Hákonarson,,,1h 25m,,
+2020/8/7,-,The Outpost,"$7,732","$176,863",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/8/7,-,The Wretched,"$7,642","$1,805,892",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/8/7,-,I Still Believe,"$7,328","$10,359,887","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/8/7,-,The Gentlemen,"$7,145","$36,359,349","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/8/7,-,What We Found,"$2,241","$6,172",Mystery & thriller,English,Ben Hickernell,"Jul 31, 2020",$6.8K,1h 50m,,"Reconstruction Pictures, Create Entertainment"
+2020/8/7,-,Killer Raccoons 2: Dark Christmas in the Dark,"$1,839","$6,315","Holiday, Comedy, Action",English,Travis Irvine,,$15.1K,1h 36m,,"Overbites Pictures, Studio Vista"
+2020/8/7,-,Followed,$488,"$538,179",Horror,English,Antoine Le,"Jun 19, 2020",$538.1K,1h 37m,Global View Entertainment,"Branded Pictures Entertainment, Viscape Arts"
+2020/8/7,-,The Truth,$265,"$9,619",Mystery & thriller,English,Ryan Barton-Grimley,,,1h 36m,,RBG Films
+2020/8/14,1,The SpongeBob Movie: Sponge on the Run,"$1,507,001","$1,507,001","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/8/14,2,Unhinged,"$1,001,601","$1,001,601","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/8/14,-,The Tax Collector,"$261,113","$691,536","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/8/14,-,Train to Busan Presents: Peninsula,"$141,916","$336,002","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/8/14,-,The Rental,"$137,678","$1,416,954","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/8/14,-,Murder in the Woods,"$74,295","$74,295","Horror, Mystery & thriller",English,Luis Iga,"Aug 14, 2020",,1h 30m,Rezinate Entertainment,Rezinate Entertainment
+2020/8/14,-,The Silencing,"$70,232","$70,232",Mystery & thriller,English,Robin Pront,"Aug 14, 2020",$93.8K,1h 33m,Saban Films,"Wildling Pictures, Anova Pictures, Silencing Canada Productions, Madrona Drive"
+2020/8/14,-,The Big Ugly,"$33,974","$514,107","Crime, Drama",English,Scott Wiper,,$502.4K,1h 46m,,4G Vision
+2020/8/14,-,Made in Italy,"$29,533","$81,865","Comedy, Drama",English (United Kingdom),James D'Arcy,"Aug 7, 2020",$101.1K,1h 34m,IFC Films,"CrossDay Productions Ltd., Indiana Production Company"
+2020/8/14,-,Spree,"$28,771","$28,771","Crime, Drama",English,Tommy Lee Wallace,,,1h 38m,,
+2020/8/14,-,The Burnt Orange Heresy,"$19,805","$100,686",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/8/14,-,Sputnik,"$14,157","$14,177",Comedy,French (Canada),Jean Dréville,,,1h 25m,,Filmsonor
+2020/8/14,-,Juvenile Delinquents,"$11,712","$27,772",Drama,English,Neil Goss,,$34.3K,1h 58m,,"Big Bull Productions, Buffalo 8 Productions"
+2020/8/14,-,Relic,"$9,592","$1,043,478","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/8/14,-,The Gentlemen,"$7,134","$36,366,483","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/8/14,-,The Outpost,"$5,717","$182,580",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/8/14,-,I Still Believe,"$5,122","$10,365,009","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/8/14,-,Summerland,"$3,448","$53,732",Comedy,Icelandic,Grímur Hákonarson,,,1h 25m,,
+2020/8/14,-,The Wretched,"$2,303","$1,808,195",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/8/14,-,The Bay of Silence,"$1,941","$1,941",Mystery & thriller,English (United Kingdom),Paula van der Oest,,,1h 20m,,"Imperative Entertainment, So What Pictures"
+2020/8/21,1,Unhinged,"$5,236,599","$6,238,200","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/8/21,2,The SpongeBob Movie: Sponge on the Run,"$1,037,600","$2,544,601","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/8/21,3,Words on Bathroom Walls,"$630,245","$630,245","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/8/21,4,Cut Throat City,"$345,872","$346,191","Crime, Drama, Mystery & thriller",English,RZA,"Aug 21, 2020",$855.9K,2h 3m,Well Go USA,
+2020/8/21,5,Train to Busan Presents: Peninsula,"$313,300","$649,302","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/8/21,6,The Tax Collector,"$181,949","$873,485","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/8/21,7,The Rental,"$120,810","$1,537,764","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/8/21,8,Tulsa,"$113,253","$113,253",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/8/21,9,The Gentlemen,"$105,313","$36,471,796","Crime, Drama, Comedy",English,Guy Ritchie,"Jan 24, 2020",$36.5M,1h 53m,STX Films,Toff Guy
+2020/8/21,-,Tesla,"$60,591","$60,591","Biography, History, Drama",English,Michael Almereyda,"Aug 21, 2020",$93.0K,1h 42m,IFC Films,"Intrinsic Value Films, Passage Pictures, Campbell Grobman Films, RNG Entertainment, Jeff Rice Films"
+2020/8/21,-,The Burnt Orange Heresy,"$36,990","$137,676",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/8/21,-,The Silencing,"$30,514","$100,746",Mystery & thriller,English,Robin Pront,"Aug 14, 2020",$93.8K,1h 33m,Saban Films,"Wildling Pictures, Anova Pictures, Silencing Canada Productions, Madrona Drive"
+2020/8/21,-,I Still Believe,"$25,546","$10,390,555","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/8/21,-,Made in Italy,"$9,291","$91,156","Comedy, Drama",English (United Kingdom),James D'Arcy,"Aug 7, 2020",$101.1K,1h 34m,IFC Films,"CrossDay Productions Ltd., Indiana Production Company"
+2020/8/21,-,Murder in the Woods,"$4,923","$79,218","Horror, Mystery & thriller",English,Luis Iga,"Aug 14, 2020",,1h 30m,Rezinate Entertainment,Rezinate Entertainment
+2020/8/21,-,Sputnik,"$3,519","$17,696",Comedy,French (Canada),Jean Dréville,,,1h 25m,,Filmsonor
+2020/8/21,-,The Wretched,"$2,967","$1,811,162",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/8/21,-,The Outpost,"$1,855","$184,435",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/8/21,-,Summerland,"$1,680","$55,891",Comedy,Icelandic,Grímur Hákonarson,,,1h 25m,,
+2020/8/21,-,Relic,"$1,566","$1,045,044","Horror, Drama",English,Natalie Erika James,"Jul 10, 2020",$1.0M,1h 29m,IFC Midnight,"Nine Stories Productions, AGBO, Film Victoria, Carver Films, Screen Australia"
+2020/8/28,1,The New Mutants,"$8,752,627","$8,752,627","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/8/28,2,Unhinged,"$3,393,008","$9,631,208","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/8/28,3,Bill & Ted Face the Music,"$1,494,464","$1,494,464","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/8/28,4,The Personal History of David Copperfield,"$663,473","$663,473","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/8/28,5,The SpongeBob Movie: Sponge on the Run,"$652,939","$3,197,540","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/8/28,6,Words on Bathroom Walls,"$629,293","$1,259,538","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/8/28,7,Cut Throat City,"$215,761","$561,952","Crime, Drama, Mystery & thriller",English,RZA,"Aug 21, 2020",$855.9K,2h 3m,Well Go USA,
+2020/8/28,8,Train to Busan Presents: Peninsula,"$141,798","$791,100","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/8/28,9,The Tax Collector,"$98,822","$972,307","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/8/28,10,Tulsa,"$62,769","$176,022",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/8/28,11,The Rental,"$28,561","$1,566,325","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/8/28,12,Tesla,"$20,820","$81,411","Biography, History, Drama",English,Michael Almereyda,"Aug 21, 2020",$93.0K,1h 42m,IFC Films,"Intrinsic Value Films, Passage Pictures, Campbell Grobman Films, RNG Entertainment, Jeff Rice Films"
+2020/8/28,13,I Still Believe,"$18,115","$10,408,670","Biography, Drama, Romance, Music",English,"Jon Erwin, Andrew Erwin","Mar 13, 2020",$9.1M,1h 55m,Lionsgate Films,Kevin Downes
+2020/8/28,14,Centigrade,"$9,705","$9,705","Mystery & thriller, Drama",English,Brendan Walsh,"Aug 28, 2020",$13.3K,2h 7m,IFC Midnight,Manhattan Productions
+2020/8/28,15,Murder in the Woods,"$6,068","$85,286","Horror, Mystery & thriller",English,Luis Iga,"Aug 14, 2020",,1h 30m,Rezinate Entertainment,Rezinate Entertainment
+2020/8/28,16,Made in Italy,"$4,732","$95,888","Comedy, Drama",English (United Kingdom),James D'Arcy,"Aug 7, 2020",$101.1K,1h 34m,IFC Films,"CrossDay Productions Ltd., Indiana Production Company"
+2020/8/28,17,The Wretched,"$4,278","$1,815,440",Drama,Hindi,Shlok Sharma,,,2h 18m,,
+2020/8/28,18,I Propose We Never See Each Other Again After T…,"$3,662","$9,341","Romance, Comedy",English,Sean Garrity,,,1h 42m,,Bedbugs Films
+2020/8/28,19,The Burnt Orange Heresy,"$2,472","$140,148",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/8/28,20,The Outpost,"$2,199","$186,634",Drama,Romanian,Peter Gothar,,,1h 24m,,
+2020/9/4,1,Tenet,"$22,493,137","$22,493,137","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/9/4,-,The New Mutants,"$4,487,741","$13,240,368","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/9/4,-,Unhinged,"$2,695,348","$12,326,556","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/9/4,-,Bill & Ted Face the Music,"$1,020,172","$2,514,636","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/9/4,-,The Personal History of David Copperfield,"$547,571","$1,211,044","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/9/4,-,The SpongeBob Movie: Sponge on the Run,"$540,776","$3,738,316","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/9/4,-,Words on Bathroom Walls,"$451,998","$1,711,536","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/9/4,-,Train to Busan Presents: Peninsula,"$100,250","$891,350","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/9/4,-,Cut Throat City,"$92,831","$654,783","Crime, Drama, Mystery & thriller",English,RZA,"Aug 21, 2020",$855.9K,2h 3m,Well Go USA,
+2020/9/4,-,Tulsa,"$40,811","$216,833",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/9/4,-,The Rental,"$31,606","$1,600,409","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/9/4,-,My Brothers’ Crossing,"$29,164","$29,164",Drama,English,Ricky Borba,"Sep 3, 2020",$59.1K,1h 38m,Atlas Distribution Company,Owlam Studios
+2020/9/4,-,The Tax Collector,"$25,617","$997,924","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/9/4,-,I Propose We Never See Each Other Again After T…,"$4,907","$14,248","Romance, Comedy",English,Sean Garrity,,,1h 42m,,Bedbugs Films
+2020/9/4,-,Tesla,"$4,518","$85,929","Biography, History, Drama",English,Michael Almereyda,"Aug 21, 2020",$93.0K,1h 42m,IFC Films,"Intrinsic Value Films, Passage Pictures, Campbell Grobman Films, RNG Entertainment, Jeff Rice Films"
+2020/9/4,-,Murder in the Woods,"$2,542","$87,828","Horror, Mystery & thriller",English,Luis Iga,"Aug 14, 2020",,1h 30m,Rezinate Entertainment,Rezinate Entertainment
+2020/9/4,-,Made in Italy,"$2,462","$98,350","Comedy, Drama",English (United Kingdom),James D'Arcy,"Aug 7, 2020",$101.1K,1h 34m,IFC Films,"CrossDay Productions Ltd., Indiana Production Company"
+2020/9/4,-,Centigrade,"$2,061","$11,766","Mystery & thriller, Drama",English,Brendan Walsh,"Aug 28, 2020",$13.3K,2h 7m,IFC Midnight,Manhattan Productions
+2020/9/4,-,The Burnt Orange Heresy,"$1,843","$141,991",Mystery & thriller,English,Giuseppe Capotondi,"Mar 6, 2020",$143.8K,1h 39m,Sony Pictures Classics,"Indiana Production Company, Rumble Films"
+2020/9/4,-,Sex and the Future,"$1,736","$5,305",Comedy,English,"Luis Carlos Hueck, Ethan Zvi Kaplan","Jun 5, 2020",$5.7K,1h 20m,Indican Pictures,Don Kap Productions
+2020/9/11,1,Tenet,"$9,040,337","$31,533,474","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/9/11,-,The New Mutants,"$2,869,221","$16,109,589","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/9/11,-,Unhinged,"$2,087,357","$14,413,913","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/9/11,-,The Broken Hearts Gallery,"$1,606,894","$1,606,894","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/9/11,-,Bill & Ted Face the Music,"$413,813","$2,928,449","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/9/11,-,Words on Bathroom Walls,"$330,635","$2,042,171","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/9/11,-,The Personal History of David Copperfield,"$295,132","$1,506,176","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/9/11,-,The SpongeBob Movie: Sponge on the Run,"$292,787","$4,031,103","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/9/11,-,Train to Busan Presents: Peninsula,"$83,859","$975,209","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/9/11,-,Cut Throat City,"$61,602","$716,385","Crime, Drama, Mystery & thriller",English,RZA,"Aug 21, 2020",$855.9K,2h 3m,Well Go USA,
+2020/9/11,-,Tulsa,"$35,898","$252,731",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/9/11,-,Rent-A-Pal,"$24,148","$24,148",Mystery & thriller,English,Jon Stevenson,"Sep 11, 2020",$29.6K,1h 48m,IFC Midnight,Pretty People Pictures
+2020/9/11,-,The Secrets We Keep,"$23,967","$23,967",Mystery & thriller,English,Yuval Adler,"Sep 16, 2020",$207.9K,1h 38m,Bleecker Street,"Fibonacci Films, AGC Studios, Echo Lake Entertainment, Di Bonaventura Pictures, Kirkhaus Films"
+2020/9/11,-,The Rental,"$21,637","$1,622,046","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/9/11,-,My Brothers’ Crossing,"$14,547","$43,711",Drama,English,Ricky Borba,"Sep 3, 2020",$59.1K,1h 38m,Atlas Distribution Company,Owlam Studios
+2020/9/11,-,The Tax Collector,"$12,711","$1,010,635","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/9/11,-,Centigrade,"$4,497","$16,263","Mystery & thriller, Drama",English,Brendan Walsh,"Aug 28, 2020",$13.3K,2h 7m,IFC Midnight,Manhattan Productions
+2020/9/11,-,Tesla,"$4,344","$90,273","Biography, History, Drama",English,Michael Almereyda,"Aug 21, 2020",$93.0K,1h 42m,IFC Films,"Intrinsic Value Films, Passage Pictures, Campbell Grobman Films, RNG Entertainment, Jeff Rice Films"
+2020/9/11,-,I Propose We Never See Each Other Again After T…,"$1,998","$16,246","Romance, Comedy",English,Sean Garrity,,,1h 42m,,Bedbugs Films
+2020/9/11,-,Find Your Voice,"$1,437","$1,437","Comedy, Music",English (Australia),Chris Herd,,$5.9K,1h 39m,,"Shorething Films, The Steve Jaggi Company"
+2020/9/18,1,Tenet,"$6,319,952","$37,853,426","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/9/18,-,The New Mutants,"$2,202,569","$18,312,158","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/9/18,-,Infidel,"$1,929,599","$1,929,599",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/9/18,-,Unhinged,"$1,775,634","$16,189,547","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/9/18,-,The Broken Hearts Gallery,"$1,161,529","$2,768,423","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/9/18,-,Bill & Ted Face the Music,"$267,261","$3,195,710","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/9/18,-,The SpongeBob Movie: Sponge on the Run,"$262,277","$4,293,380","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/9/18,-,Words on Bathroom Walls,"$221,648","$2,263,819","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/9/18,-,The Personal History of David Copperfield,"$219,841","$1,726,017","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/9/18,-,Alone,"$215,555","$215,555","Horror, Mystery & thriller",English,"Parkpoom Wongpoom, Banjong Pisanthanakun",,,,,
+2020/9/18,-,The Secrets We Keep,"$143,415","$167,382",Mystery & thriller,English,Yuval Adler,"Sep 16, 2020",$207.9K,1h 38m,Bleecker Street,"Fibonacci Films, AGC Studios, Echo Lake Entertainment, Di Bonaventura Pictures, Kirkhaus Films"
+2020/9/18,-,No Escape,"$100,512","$100,512","Action, Adventure, Sci-fi",English,Martin Campbell,,$14.2M,1h 58m,,Columbia Pictures Corporation
+2020/9/18,-,Train to Busan Presents: Peninsula,"$89,826","$1,065,035","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/9/18,-,The Nest,"$89,206","$89,206",Drama,Italian,Klaudia Reynicke-Candeloro,,,1h 20m,,
+2020/9/18,-,Tulsa,"$54,337","$307,068",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/9/18,-,Cut Throat City,"$42,754","$759,139","Crime, Drama, Mystery & thriller",English,RZA,"Aug 21, 2020",$855.9K,2h 3m,Well Go USA,
+2020/9/18,-,The Way I See it,"$36,605","$36,605",Adventure,English,"Steve Winter, Murray Wais, Scott Gaffney",,,1h 16m,,Matchstick Productions
+2020/9/18,-,The Tax Collector,"$9,032","$1,019,667","Mystery & thriller, Crime, Drama",English,David Ayer,"Aug 7, 2020",$942.7K,1h 35m,RLJE Films,"Kodiak Pictures, Cedar Creek Productions, Faster Horse Pictures, Cross Creek Pictures"
+2020/9/18,-,The Rental,"$7,464","$1,629,510","Horror, Comedy",English,"Mike Campbell, Todd Johnson",,,1h 35m,,3 Roses Entertainment
+2020/9/18,-,My Brothers’ Crossing,"$7,326","$51,037",Drama,English,Ricky Borba,"Sep 3, 2020",$59.1K,1h 38m,Atlas Distribution Company,Owlam Studios
+2020/9/25,1,Tenet,"$4,630,091","$42,483,517","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/9/25,-,The New Mutants,"$1,601,903","$19,914,061","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/9/25,-,Unhinged,"$1,343,107","$17,532,654","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/9/25,-,Infidel,"$1,042,366","$2,971,965",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/9/25,-,The Broken Hearts Gallery,"$689,978","$3,458,401","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/9/25,-,Shortcut,"$442,975","$442,975","Horror, Mystery & thriller",English,Alessio Liguori,"Sep 25, 2020",$758.2K,1h 20m,Gravitas Ventures,"Sternenberg Films , Camaleo, Play Entertainment, Mad Rocket Entertainment"
+2020/9/25,-,The Last Shift,"$364,337","$364,337","Comedy, Drama",English,Andrew Cohn,"Sep 25, 2020",$790.0K,1h 30m,"Stage 6, Sony Pictures Entertainment","Bona Fide Productions, Whitewater Films, Pak Pictures"
+2020/9/25,-,Kajillionaire,"$304,440","$304,440","Comedy, Drama",English,Miranda July,"Sep 25, 2020",$524.0K,1h 44m,Focus Features,"Plan B Entertainment, Annapurna Pictures"
+2020/9/25,-,Ava,"$219,370","$219,370","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/9/25,-,The SpongeBob Movie: Sponge on the Run,"$177,536","$4,470,916","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/9/25,-,Alone,"$137,386","$352,941","Horror, Mystery & thriller",English,"Parkpoom Wongpoom, Banjong Pisanthanakun",,,,,
+2020/9/25,-,Words on Bathroom Walls,"$124,628","$2,388,447","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/9/25,-,Bill & Ted Face the Music,"$109,701","$3,305,411","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/9/25,-,The Personal History of David Copperfield,"$85,153","$1,811,170","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/9/25,-,On the Basis of Sex,"$82,150","$24,704,837","Biography, History, Drama",English,Mimi Leder,"Jan 11, 2019",$24.7M,2h 0m,Focus Features,"Participant Media, Alibaba Pictures Group"
+2020/9/25,-,Train to Busan Presents: Peninsula,"$60,947","$1,125,982","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/9/25,-,The Secrets We Keep,"$59,704","$227,086",Mystery & thriller,English,Yuval Adler,"Sep 16, 2020",$207.9K,1h 38m,Bleecker Street,"Fibonacci Films, AGC Studios, Echo Lake Entertainment, Di Bonaventura Pictures, Kirkhaus Films"
+2020/9/25,-,Tulsa,"$50,689","$357,757",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/9/25,-,The Nest,"$39,771","$129,213",Drama,Italian,Klaudia Reynicke-Candeloro,,,1h 20m,,
+2020/9/25,-,No Escape,"$33,613","$134,125","Action, Adventure, Sci-fi",English,Martin Campbell,,$14.2M,1h 58m,,Columbia Pictures Corporation
+2020/10/2,1,Tenet,"$3,719,990","$46,203,507","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/10/2,-,The New Mutants,"$1,392,000","$21,306,061","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/10/2,-,Unhinged,"$1,160,731","$18,693,385","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/10/2,-,Infidel,"$642,424","$3,614,389",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/10/2,-,The Broken Hearts Gallery,"$398,935","$3,857,336","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/10/2,-,Possessor,"$366,355","$366,355","Sci-fi, Horror, Mystery & thriller",English,Brandon Cronenberg,,$745.8K,1h 42m,,"Rhombus Media, Particular Crowd, Rook Films"
+2020/10/2,-,The Last Shift,"$223,268","$587,605","Comedy, Drama",English,Andrew Cohn,"Sep 25, 2020",$790.0K,1h 30m,"Stage 6, Sony Pictures Entertainment","Bona Fide Productions, Whitewater Films, Pak Pictures"
+2020/10/2,-,Save Yourselves!,"$206,610","$206,610","Comedy, Sci-fi",English,"Alex Huston Fischer, Eleanor Wilson","Oct 2, 2020",$297.3K,1h 33m,Bleecker Street Media,"Keshet Studios, Washingston Square Films, Last Rodeo Studios"
+2020/10/2,-,The Call,"$188,117","$188,117",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/10/2,-,Ava,"$157,667","$377,037","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/10/2,-,Kajillionaire,"$149,265","$453,705","Comedy, Drama",English,Miranda July,"Sep 25, 2020",$524.0K,1h 44m,Focus Features,"Plan B Entertainment, Annapurna Pictures"
+2020/10/2,-,Legend of Deification,"$143,937","$143,937","Fantasy, Adventure, Animation",Chinese,"Teng Cheng, Li Wei","Oct 1, 2020",$214.7K,1h 50m,Well Go USA Entertainment,
+2020/10/2,-,The SpongeBob Movie: Sponge on the Run,"$128,874","$4,599,790","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/10/2,-,Words on Bathroom Walls,"$90,460","$2,478,907","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/10/2,-,Alone,"$75,170","$428,111","Horror, Mystery & thriller",English,"Parkpoom Wongpoom, Banjong Pisanthanakun",,,,,
+2020/10/2,-,A Call to Spy,"$49,586","$49,586","History, Drama",English,Lydia Dean Pilcher,"Oct 2, 2020",$158.9K,2h 4m,IFC Films,SMT Pictures
+2020/10/2,-,Bill & Ted Face the Music,"$48,124","$3,353,535","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/10/2,-,The Personal History of David Copperfield,"$47,963","$1,859,133","Comedy, Drama",English (United Kingdom),Armando Iannucci,"Aug 28, 2020",$1.9M,1h 59m,Searchlight Pictures,"Film 4, FilmNation Entertainment"
+2020/10/2,-,Train to Busan Presents: Peninsula,"$43,715","$1,169,697","Horror, Mystery & thriller, Action",Korean,Yeon Sang-ho,"Aug 21, 2020",$1.2M,1h 56m,Well Go USA Entertainment,"Movic Comics, RedPeter Film, Next Entertainment World"
+2020/10/2,-,Tulsa,"$33,028","$390,785",Action,English,Stuart Heisler,"May 26, 1949",,1h 30m,Eagle-Lion Films Inc. [us],"Walter Wanger Productions, Inc."
+2020/10/9,1,The War with Grandpa,"$4,754,332","$4,754,332",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/10/9,2,Tenet,"$2,903,920","$49,107,427","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/10/9,-,The New Mutants,"$950,465","$22,256,526","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/10/9,-,Unhinged,"$919,916","$19,613,301","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/10/9,-,Honest Thief,"$507,389","$507,389","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/10/9,-,Infidel,"$284,385","$3,898,774",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/10/9,-,Possessor,"$224,113","$590,469","Sci-fi, Horror, Mystery & thriller",English,Brandon Cronenberg,,$745.8K,1h 42m,,"Rhombus Media, Particular Crowd, Rook Films"
+2020/10/9,-,Yellow Rose,"$219,735","$239,573","Drama, Music",English,Diane Paragas,"Oct 9, 2020",$364.1K,1h 35m,"Stage 6, Sony Pictures Entertainment","Home Away Productions, Civilian Studios"
+2020/10/9,-,The Wolf of Snow Hollow,"$141,695","$141,695","Horror, Mystery & thriller",English,Jim Cummings,"Oct 9, 2020",$183.2K,1h 23m,Orion Classics,"Vanishing Angle, New Form"
+2020/10/9,-,The Broken Hearts Gallery,"$129,673","$3,987,009","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/10/9,-,The Call,"$116,828","$304,945",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/10/9,-,Save Yourselves!,"$77,353","$283,963","Comedy, Sci-fi",English,"Alex Huston Fischer, Eleanor Wilson","Oct 2, 2020",$297.3K,1h 33m,Bleecker Street Media,"Keshet Studios, Washingston Square Films, Last Rodeo Studios"
+2020/10/9,-,Bill & Ted Face the Music,"$76,593","$3,430,128","Comedy, Adventure, Fantasy",English,Dean Parisot,"Aug 28, 2020",$3.4M,1h 33m,"Orion Pictures, United Artists Releasing","Lakeview Entertainment (II), Hammerstone Studios, Dugan Entertainment, Dial 9, TinRes Entertainment"
+2020/10/9,-,The SpongeBob Movie: Sponge on the Run,"$70,004","$4,669,794","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/10/9,-,Ava,"$61,635","$438,672","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/10/9,-,Kajillionaire,"$57,810","$511,515","Comedy, Drama",English,Miranda July,"Sep 25, 2020",$524.0K,1h 44m,Focus Features,"Plan B Entertainment, Annapurna Pictures"
+2020/10/9,-,Alone,"$52,800","$480,911","Horror, Mystery & thriller",English,"Parkpoom Wongpoom, Banjong Pisanthanakun",,,,,
+2020/10/9,-,A Call to Spy,"$42,501","$92,087","History, Drama",English,Lydia Dean Pilcher,"Oct 2, 2020",$158.9K,2h 4m,IFC Films,SMT Pictures
+2020/10/9,-,Words on Bathroom Walls,"$41,206","$2,520,113","Romance, Drama",English,Thor Freudenthal,"Aug 21, 2020",$2.5M,1h 51m,"LD Entertainment, Roadside Attractions",LD Entertainment
+2020/10/9,-,Legend of Deification,"$40,656","$191,621","Fantasy, Adventure, Animation",Chinese,"Teng Cheng, Li Wei","Oct 1, 2020",$214.7K,1h 50m,Well Go USA Entertainment,
+2020/10/16,1,Honest Thief,"$4,618,885","$5,126,274","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/10/16,2,The War with Grandpa,"$3,082,715","$7,837,047",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/10/16,3,Tenet,"$2,080,528","$51,187,955","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/10/16,-,2 Hearts,"$669,821","$669,821","Romance, Drama",English,Lance Hool,"Oct 16, 2020",$1.3M,1h 40m,Freestyle Releasing,Silver Lion Films
+2020/10/16,-,The New Mutants,"$611,188","$22,867,714","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/10/16,-,Unhinged,"$559,748","$20,173,049","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/10/16,-,Love and Monsters,"$362,275","$362,275","Fantasy, Adventure, Comedy",English,Michael Matthews,"Oct 16, 2020",$1.0M,1h 49m,Paramount Pictures,"Paramount Pictures, Entertainment One, 21 Laps Entertainment"
+2020/10/16,-,The Kid Detective,"$209,731","$209,731",Comedy,English,Evan Morgan,"Oct 16, 2020",$363.2K,1h 39m,"Stage 6, Sony Pictures Entertainment","Woods Entertainment, JoBro Productions & Film Finance"
+2020/10/16,-,Lupin III: The First,"$128,593","$128,593","Comedy, Adventure, Anime",Japanese,Takashi Yamazaki,,,1h 33m,,"Miyagi Television Broadcasting, TMS Entertainment, Fukuoka Broadcasting System, Nippon Television Network, Shirogumi, Toho Company, Chukyo TV Broadcasting Company (CTV), Yomiuri Telecasting Corporation, Sapporo Television Broadcasting Company, Abe Shuji, Hiroshima Telecasting, Video Audio Project, Shizuoka Daiichi Television, Marza Animation Planet"
+2020/10/16,-,Yellow Rose,"$101,548","$341,121","Drama, Music",English,Diane Paragas,"Oct 9, 2020",$364.1K,1h 35m,"Stage 6, Sony Pictures Entertainment","Home Away Productions, Civilian Studios"
+2020/10/16,-,Infidel,"$96,848","$3,995,622",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/10/16,-,Possessor,"$96,573","$687,042","Sci-fi, Horror, Mystery & thriller",English,Brandon Cronenberg,,$745.8K,1h 42m,,"Rhombus Media, Particular Crowd, Rook Films"
+2020/10/16,-,The Call,"$82,908","$387,853",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/10/16,-,The SpongeBob Movie: Sponge on the Run,"$60,591","$4,730,385","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/10/16,-,The Wolf of Snow Hollow,"$35,977","$177,672","Horror, Mystery & thriller",English,Jim Cummings,"Oct 9, 2020",$183.2K,1h 23m,Orion Classics,"Vanishing Angle, New Form"
+2020/10/16,-,Alone,"$35,230","$516,141","Horror, Mystery & thriller",English,"Parkpoom Wongpoom, Banjong Pisanthanakun",,,,,
+2020/10/16,-,Ava,"$31,857","$470,529","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/10/16,-,The Broken Hearts Gallery,"$31,211","$4,018,220","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/10/16,-,Kajillionaire,"$19,915","$531,430","Comedy, Drama",English,Miranda July,"Sep 25, 2020",$524.0K,1h 44m,Focus Features,"Plan B Entertainment, Annapurna Pictures"
+2020/10/16,-,Percy,"$19,492","$28,414",Comedy,English,Ralph Thomas,,,1h 43m,,
+2020/10/23,1,Honest Thief,"$3,058,988","$8,185,262","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/10/23,2,The War with Grandpa,"$2,371,158","$10,208,205",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/10/23,3,Tenet,"$1,726,328","$52,914,283","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/10/23,4,The Empty Man,"$1,707,677","$1,707,677","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/10/23,-,After We Collided,"$489,682","$2,141,955","Romance, Drama",English,Roger Kumble,"Oct 23, 2020",$2.4M,1h 47m,Open Road,"CalMaple, Frayed Pages Entertainment"
+2020/10/23,-,2 Hearts,"$412,975","$1,082,796","Romance, Drama",English,Lance Hool,"Oct 16, 2020",$1.3M,1h 40m,Freestyle Releasing,Silver Lion Films
+2020/10/23,-,The Addams Family,"$398,577","$97,584,384","Kids & family, Comedy, Animation",English,"Conrad Vernon, Greg Tiernan","Oct 11, 2019",$673.0K,1h 27m,Metro-Goldwyn-Mayer,"Metro Goldwyn Mayer, BermanBraun"
+2020/10/23,-,The New Mutants,"$377,446","$23,245,160","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/10/23,-,Unhinged,"$342,021","$20,515,070","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/10/23,-,Synchronic,"$341,117","$341,117","Sci-fi, Mystery & thriller",English,"Justin Benson, Aaron Moorhead","Oct 23, 2020",$636.7K,1h 40m,Well Go USA Entertainment,"Rustic Films, Patriot Pictures, Love & Death Productions, Pfaff & Pfaff Productions, XYZ Films"
+2020/10/23,-,Love and Monsters,"$283,323","$645,598","Fantasy, Adventure, Comedy",English,Michael Matthews,"Oct 16, 2020",$1.0M,1h 49m,Paramount Pictures,"Paramount Pictures, Entertainment One, 21 Laps Entertainment"
+2020/10/23,-,The Kid Detective,"$134,030","$343,761",Comedy,English,Evan Morgan,"Oct 16, 2020",$363.2K,1h 39m,"Stage 6, Sony Pictures Entertainment","Woods Entertainment, JoBro Productions & Film Finance"
+2020/10/23,-,The Call,"$58,434","$446,287",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/10/23,-,Possessor,"$45,897","$732,939","Sci-fi, Horror, Mystery & thriller",English,Brandon Cronenberg,,$745.8K,1h 42m,,"Rhombus Media, Particular Crowd, Rook Films"
+2020/10/23,-,Infidel,"$38,578","$4,034,200",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/10/23,-,The SpongeBob Movie: Sponge on the Run,"$37,457","$4,767,842","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/10/23,-,The Broken Hearts Gallery,"$21,327","$4,039,547","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/10/23,-,Ava,"$17,082","$487,611","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/10/23,-,Percy,"$16,980","$45,566",Comedy,English,Ralph Thomas,,,1h 43m,,
+2020/10/23,-,A Call to Spy,"$13,453","$123,739","History, Drama",English,Lydia Dean Pilcher,"Oct 2, 2020",$158.9K,2h 4m,IFC Films,SMT Pictures
+2020/10/30,1,Come Play,"$3,931,825","$3,931,825","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/10/30,2,Honest Thief,"$1,851,260","$10,036,522","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/10/30,3,The War with Grandpa,"$1,694,404","$11,902,609",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/10/30,4,Tenet,"$1,320,040","$54,234,323","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/10/30,-,The Empty Man,"$739,800","$2,447,477","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/10/30,-,The Addams Family,"$263,157","$97,847,541","Kids & family, Comedy, Animation",English,"Conrad Vernon, Greg Tiernan","Oct 11, 2019",$673.0K,1h 27m,Metro-Goldwyn-Mayer,"Metro Goldwyn Mayer, BermanBraun"
+2020/10/30,-,Spell,"$257,743","$257,743",,,Unknown Director,,,,,
+2020/10/30,-,The New Mutants,"$212,239","$23,457,399","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/10/30,-,Love and Monsters,"$174,553","$820,151","Fantasy, Adventure, Comedy",English,Michael Matthews,"Oct 16, 2020",$1.0M,1h 49m,Paramount Pictures,"Paramount Pictures, Entertainment One, 21 Laps Entertainment"
+2020/10/30,-,Unhinged,"$167,094","$20,682,164","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/10/30,-,Synchronic,"$165,283","$506,400","Sci-fi, Mystery & thriller",English,"Justin Benson, Aaron Moorhead","Oct 23, 2020",$636.7K,1h 40m,Well Go USA Entertainment,"Rustic Films, Patriot Pictures, Love & Death Productions, Pfaff & Pfaff Productions, XYZ Films"
+2020/10/30,-,2 Hearts,"$157,578","$1,240,374","Romance, Drama",English,Lance Hool,"Oct 16, 2020",$1.3M,1h 40m,Freestyle Releasing,Silver Lion Films
+2020/10/30,-,After We Collided,"$141,671","$2,283,626","Romance, Drama",English,Roger Kumble,"Oct 23, 2020",$2.4M,1h 47m,Open Road,"CalMaple, Frayed Pages Entertainment"
+2020/10/30,-,The Call,"$45,396","$491,683",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/10/30,-,The SpongeBob Movie: Sponge on the Run,"$20,154","$4,787,996","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/10/30,-,Possessor,"$19,946","$752,885","Sci-fi, Horror, Mystery & thriller",English,Brandon Cronenberg,,$745.8K,1h 42m,,"Rhombus Media, Particular Crowd, Rook Films"
+2020/10/30,-,The Kid Detective,"$16,521","$360,282",Comedy,English,Evan Morgan,"Oct 16, 2020",$363.2K,1h 39m,"Stage 6, Sony Pictures Entertainment","Woods Entertainment, JoBro Productions & Film Finance"
+2020/10/30,-,Infidel,"$12,525","$4,046,725",Mystery & thriller,English,Cyrus Nowrasteh,"Sep 18, 2020",$4.0M,1h 48m,Cloudburst Entertainment,"Cloudburst Entertainment, New Path Pictures, D'Souza Media"
+2020/10/30,-,Ava,"$10,136","$497,747","Comedy, Drama",French (France),Léa Mysius,,,1h 45m,,"F Comme Film, arte France Cinéma, Trois Brigands Productions"
+2020/10/30,-,A Call to Spy,"$9,965","$133,704","History, Drama",English,Lydia Dean Pilcher,"Oct 2, 2020",$158.9K,2h 4m,IFC Films,SMT Pictures
+2020/11/6,1,Let Him Go,"$5,087,465","$5,087,465","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/11/6,2,Come Play,"$2,284,715","$6,216,540","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/11/6,3,The War with Grandpa,"$2,000,094","$13,902,703",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/11/6,4,Honest Thief,"$1,545,604","$11,582,126","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/11/6,5,Tenet,"$1,339,494","$55,573,817","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/11/6,-,The Empty Man,"$393,410","$2,840,887","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/11/6,-,The New Mutants,"$199,096","$23,656,495","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/11/6,-,The Informer,"$187,405","$187,405",Mystery & thriller,Chinese,Wong Chung,,,1h 39m,,
+2020/11/6,-,Spell,"$172,498","$430,241",,,Unknown Director,,,,,
+2020/11/6,-,Love and Monsters,"$151,434","$971,585","Fantasy, Adventure, Comedy",English,Michael Matthews,"Oct 16, 2020",$1.0M,1h 49m,Paramount Pictures,"Paramount Pictures, Entertainment One, 21 Laps Entertainment"
+2020/11/6,-,Unhinged,"$112,447","$20,794,611","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/11/6,-,Synchronic,"$84,989","$591,389","Sci-fi, Mystery & thriller",English,"Justin Benson, Aaron Moorhead","Oct 23, 2020",$636.7K,1h 40m,Well Go USA Entertainment,"Rustic Films, Patriot Pictures, Love & Death Productions, Pfaff & Pfaff Productions, XYZ Films"
+2020/11/6,-,2 Hearts,"$79,375","$1,319,749","Romance, Drama",English,Lance Hool,"Oct 16, 2020",$1.3M,1h 40m,Freestyle Releasing,Silver Lion Films
+2020/11/6,-,The Dark and The Wicked,"$78,014","$78,014","Horror, Mystery & thriller",English,Bryan Bertino,"Nov 6, 2020",$157.0K,1h 34m,Shudder,"Inwood Road Films, Traveling Picture Show Company (TPSC), Shotgun Shack Pictures, Unbroken Pictures"
+2020/11/6,-,After We Collided,"$76,839","$2,360,465","Romance, Drama",English,Roger Kumble,"Oct 23, 2020",$2.4M,1h 47m,Open Road,"CalMaple, Frayed Pages Entertainment"
+2020/11/6,-,The SpongeBob Movie: Sponge on the Run,"$22,794","$4,810,790","Kids & family, Comedy, Adventure, Animation",English,Tim Hill,,$4.5M,1h 31m,,"Netflix, United Plankton Pictures, Paramount Animation, Media Rights Capital (MRC), Nickelodeon Movies, Nickelodeon Animation Studios"
+2020/11/6,-,The Call,"$21,609","$513,292",Drama,English,Jason Ferrell,,,1h 38m,,
+2020/11/6,-,The Addams Family,"$17,192","$97,864,733","Kids & family, Comedy, Animation",English,"Conrad Vernon, Greg Tiernan","Oct 11, 2019",$673.0K,1h 27m,Metro-Goldwyn-Mayer,"Metro Goldwyn Mayer, BermanBraun"
+2020/11/6,-,The Broken Hearts Gallery,"$15,676","$4,062,907","Romance, Comedy",English,Natalie Krinsky,"Sep 11, 2020",$4.1M,1h 50m,"Stage 6, Sony Pictures Entertainment","No Trace Camping, Kicked to the Curb Productions"
+2020/11/6,-,A Call to Spy,"$11,382","$145,086","History, Drama",English,Lydia Dean Pilcher,"Oct 2, 2020",$158.9K,2h 4m,IFC Films,SMT Pictures
+2020/11/13,1,Freaky,"$4,372,295","$4,372,295","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/11/13,2,Let Him Go,"$2,131,835","$7,219,300","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/11/13,3,The War with Grandpa,"$1,546,890","$15,449,593",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/11/13,4,Come Play,"$1,288,125","$7,504,665","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/11/13,5,Honest Thief,"$976,443","$12,558,569","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/11/13,6,Tenet,"$942,600","$56,516,417","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/11/13,-,The Climb,"$143,423","$143,423",Drama,English,John Schmidt,,$78.7K,1h 38m,,Dean River Productions
+2020/11/13,-,Missão: Vingança,"$141,235","$141,235","Holiday, Fantasy, Comedy, Mystery & thriller",English,"Ian Nelms, Eshom Nelms","Nov 13, 2020",$263.7K,1h 40m,Saban Films,"Sprockefeller Pictures, Mammoth Entertainment, Windy Hill Pictures, Ingenious, Zed Filmworks, Fortitude International , RBL Studios, Rough House Pictures"
+2020/11/13,-,Come Away,"$130,470","$130,470","Kids & family, Adventure, Fantasy",English,Brenda Chapman,"Nov 13, 2020",$106.1K,1h 34m,Relativity Media,"Creasun Entertainment, Lakeview Entertainment (II), Fred Films, Hammerstone Studios, Yoruba Saxon Productions, Endurance Media, TinRes Entertainment, ACE Pictures Entertainment"
+2020/11/13,-,Ammonite,"$122,088","$122,088","Romance, Drama, Lgbtq+",English,Francis Lee,"Nov 13, 2020",$160.9K,2h 0m,NEON,"Cross City Films, See-Saw Films, BBC Films, British Film Institute, Stage 6 Films"
+2020/11/13,-,The New Mutants,"$114,866","$23,771,361","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/11/13,-,The Empty Man,"$99,574","$2,940,461","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/11/13,-,Love and Monsters,"$99,129","$1,070,714","Fantasy, Adventure, Comedy",English,Michael Matthews,"Oct 16, 2020",$1.0M,1h 49m,Paramount Pictures,"Paramount Pictures, Entertainment One, 21 Laps Entertainment"
+2020/11/13,-,The Informer,"$82,994","$270,399",Mystery & thriller,Chinese,Wong Chung,,,1h 39m,,
+2020/11/13,-,Spell,"$69,863","$500,104",,,Unknown Director,,,,,
+2020/11/13,-,The Dark and The Wicked,"$44,732","$122,746","Horror, Mystery & thriller",English,Bryan Bertino,"Nov 6, 2020",$157.0K,1h 34m,Shudder,"Inwood Road Films, Traveling Picture Show Company (TPSC), Shotgun Shack Pictures, Unbroken Pictures"
+2020/11/13,-,Unhinged,"$36,854","$20,831,465","Horror, Mystery & thriller",English,Don Gronquist,,,1h 19m,,
+2020/11/13,-,Synchronic,"$31,161","$622,550","Sci-fi, Mystery & thriller",English,"Justin Benson, Aaron Moorhead","Oct 23, 2020",$636.7K,1h 40m,Well Go USA Entertainment,"Rustic Films, Patriot Pictures, Love & Death Productions, Pfaff & Pfaff Productions, XYZ Films"
+2020/11/13,-,2 Hearts,"$21,744","$1,341,493","Romance, Drama",English,Lance Hool,"Oct 16, 2020",$1.3M,1h 40m,Freestyle Releasing,Silver Lion Films
+2020/11/13,-,After We Collided,"$20,436","$2,380,901","Romance, Drama",English,Roger Kumble,"Oct 23, 2020",$2.4M,1h 47m,Open Road,"CalMaple, Frayed Pages Entertainment"
+2020/11/20,1,The Croods: A New Age,"$4,550,255","$4,550,255","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/11/20,2,Freaky,"$1,870,690","$6,242,985","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/11/20,3,The War with Grandpa,"$1,164,218","$16,613,811",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/11/20,4,Let Him Go,"$1,034,125","$8,253,425","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/11/20,5,Come Play,"$780,360","$8,285,025","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/11/20,6,Honest Thief,"$632,825","$13,191,394","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/11/20,7,Tenet,"$553,268","$57,069,685","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/11/20,-,The Santa Clause,"$536,000","$145,369,357","Kids & family, Holiday, Comedy",English,John Pasquin,"Nov 11, 1994",$145.5M,1h 37m,"Buena Vista Pictures, Hollywood Pictures, Walt Disney Pictures, Buena Vista International [us]","Hollywood Pictures, Walt Disney Pictures, Outlaw Productions"
+2020/11/20,-,Vanguard,"$521,955","$521,955","Action, Mystery & thriller",English,Stanley Tong,"Nov 20, 2020",$793.5K,1h 48m,Gravitas Ventures,"Shenzhen Media Film & Television, Shanghai Lix Entertainment, China Film (Shanghai) International Media Co., Epitome Capital, Tencent Pictures, China Film Group Corporation, Shanghai Tencent Pictures Culture Media"
+2020/11/20,-,The Last Vermeer,"$338,305","$338,305",Drama,English,Dan Friedkin,"Nov 20, 2020",$682.3K,1h 57m,TriStar Pictures,"Imperative Entertainment, NL Film"
+2020/11/20,-,Buddy Games,"$216,313","$216,313",Comedy,English,Josh Duhamel,"Nov 20, 2020",$310.0K,1h 36m,Saban Films,
+2020/11/20,-,True to the Game 2: Gena’s Story,"$195,829","$1,003,155","Crime, Drama",English,Jamal Hill,"Nov 6, 2020",$1.2M,1h 33m,Imani Media Group,Gena's Story
+2020/11/20,-,The Forgotten Carols,"$190,214","$190,214","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
+2020/11/20,-,Missão: Vingança,"$68,852","$210,087","Holiday, Fantasy, Comedy, Mystery & thriller",English,"Ian Nelms, Eshom Nelms","Nov 13, 2020",$263.7K,1h 40m,Saban Films,"Sprockefeller Pictures, Mammoth Entertainment, Windy Hill Pictures, Ingenious, Zed Filmworks, Fortitude International , RBL Studios, Rough House Pictures"
+2020/11/20,-,The Climb,"$66,620","$210,043",Drama,English,John Schmidt,,$78.7K,1h 38m,,Dean River Productions
+2020/11/20,-,National Lampoon’s Christmas Vacation,"$50,000","$67,271,818","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/11/20,-,The New Mutants,"$48,973","$23,820,334","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/11/20,-,Come Away,"$46,939","$177,409","Kids & family, Adventure, Fantasy",English,Brenda Chapman,"Nov 13, 2020",$106.1K,1h 34m,Relativity Media,"Creasun Entertainment, Lakeview Entertainment (II), Fred Films, Hammerstone Studios, Yoruba Saxon Productions, Endurance Media, TinRes Entertainment, ACE Pictures Entertainment"
+2020/11/20,-,Frozen,"$35,000","$400,773,009",Drama,,Wang Xiaoshuai,,$5.7K,1h 39m,,
+2020/11/20,-,The Empty Man,"$30,696","$2,971,157","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/11/27,1,The Croods: A New Age,"$11,350,155","$15,900,410","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/11/27,2,Freaky,"$1,038,355","$7,281,340","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/11/27,3,The War with Grandpa,"$691,490","$17,305,301",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/11/27,4,Let Him Go,"$562,970","$8,816,395","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/11/27,-,Come Play,"$460,805","$8,745,830","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/11/27,-,Honest Thief,"$440,970","$13,632,364","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/11/27,-,Tenet,"$355,973","$57,425,658","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/11/27,-,Vanguard,"$207,537","$729,492","Action, Mystery & thriller",English,Stanley Tong,"Nov 20, 2020",$793.5K,1h 48m,Gravitas Ventures,"Shenzhen Media Film & Television, Shanghai Lix Entertainment, China Film (Shanghai) International Media Co., Epitome Capital, Tencent Pictures, China Film Group Corporation, Shanghai Tencent Pictures Culture Media"
+2020/11/27,-,The Last Vermeer,"$204,595","$542,900",Drama,English,Dan Friedkin,"Nov 20, 2020",$682.3K,1h 57m,TriStar Pictures,"Imperative Entertainment, NL Film"
+2020/11/27,-,National Lampoon’s Christmas Vacation,"$170,000","$67,441,818","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/11/27,-,Buddy Games,"$145,255","$361,568",Comedy,English,Josh Duhamel,"Nov 20, 2020",$310.0K,1h 36m,Saban Films,
+2020/11/27,-,The Forgotten Carols,"$107,492","$297,706","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
+2020/11/27,-,Missão: Vingança,"$39,931","$250,018","Holiday, Fantasy, Comedy, Mystery & thriller",English,"Ian Nelms, Eshom Nelms","Nov 13, 2020",$263.7K,1h 40m,Saban Films,"Sprockefeller Pictures, Mammoth Entertainment, Windy Hill Pictures, Ingenious, Zed Filmworks, Fortitude International , RBL Studios, Rough House Pictures"
+2020/11/27,-,Always & Forever,"$23,668","$43,436",Romance,English,Kevin Connor,,,1h 26m,,Larry Levinson Productions
+2020/11/27,-,Zappa,"$15,502","$15,502",Drama,Danish,Bille August,"May 16, 1984",,1h 40m,,Per Holst Filmproduktion
+2020/11/27,-,The Climb,"$14,828","$224,871",Drama,English,John Schmidt,,$78.7K,1h 38m,,Dean River Productions
+2020/11/27,-,The Empty Man,"$9,997","$2,981,154","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/11/27,-,The New Mutants,"$8,746","$23,829,080","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/11/27,-,Embattled,"$8,596","$27,025",Drama,English,Nick Sarkisov,"Nov 20, 2020",$32.2K,1h 57m,IFC Films,Blitz Films
+2020/11/27,-,Come Away,"$7,068","$184,477","Kids & family, Adventure, Fantasy",English,Brenda Chapman,"Nov 13, 2020",$106.1K,1h 34m,Relativity Media,"Creasun Entertainment, Lakeview Entertainment (II), Fred Films, Hammerstone Studios, Yoruba Saxon Productions, Endurance Media, TinRes Entertainment, ACE Pictures Entertainment"
+2020/12/4,1,The Croods: A New Age,"$5,349,695","$21,250,105","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/12/4,2,Half Brothers,"$891,525","$891,525","Comedy, Drama",English,Christoph Lehmann,"Sep 21, 2018",$1.1K,1h 37m,Parade Deck Films,
+2020/12/4,3,Freaky,"$637,025","$7,918,365","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/12/4,4,All My Life,"$480,930","$480,930","Drama, Romance",English,Marc Meyers,"Dec 4, 2020",$909.9K,1h 33m,Universal Pictures,"Broken Road Productions, Universal Pictures, Perfect World Pictures"
+2020/12/4,5,The War with Grandpa,"$392,654","$17,697,955",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/12/4,6,Come Play,"$287,885","$9,033,715","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/12/4,7,Let Him Go,"$269,655","$9,086,050","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/12/4,8,Honest Thief,"$253,407","$13,885,771","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/12/4,9,Tenet,"$235,906","$57,661,564","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/12/4,10,National Lampoon’s Christmas Vacation,"$155,000","$67,596,818","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/12/4,11,The Polar Express,"$155,000","$183,865,445","Kids & family, Holiday, Fantasy, Animation",English,Robert Zemeckis,"Nov 10, 2004",$125.9M,1h 40m,"Warner Bros. Pictures, Castle Rock","Universal CGI, Playtone Productions, ImageMovers, Warner Brothers, Castle Rock Entertainment, Golden Mean"
+2020/12/4,-,The Last Vermeer,"$85,177","$628,077",Drama,English,Dan Friedkin,"Nov 20, 2020",$682.3K,1h 57m,TriStar Pictures,"Imperative Entertainment, NL Film"
+2020/12/4,-,The Forgotten Carols,"$74,636","$372,342","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
+2020/12/4,-,Mario Puzo’s The Godfather Coda: The Death of M…,"$72,923","$66,593,452","Crime, Drama",English,Francis Ford Coppola,"Dec 25, 1990",$64.6M,2h 41m,Paramount Pictures,"Paramount Pictures, Zoetrope Studios"
+2020/12/4,-,Vanguard,"$52,033","$781,525","Action, Mystery & thriller",English,Stanley Tong,"Nov 20, 2020",$793.5K,1h 48m,Gravitas Ventures,"Shenzhen Media Film & Television, Shanghai Lix Entertainment, China Film (Shanghai) International Media Co., Epitome Capital, Tencent Pictures, China Film Group Corporation, Shanghai Tencent Pictures Culture Media"
+2020/12/4,-,Buddy Games,"$44,336","$405,904",Comedy,English,Josh Duhamel,"Nov 20, 2020",$310.0K,1h 36m,Saban Films,
+2020/12/4,-,Always & Forever,"$25,210","$68,646",Romance,English,Kevin Connor,,,1h 26m,,Larry Levinson Productions
+2020/12/4,-,Missão: Vingança,"$19,795","$269,813","Holiday, Fantasy, Comedy, Mystery & thriller",English,"Ian Nelms, Eshom Nelms","Nov 13, 2020",$263.7K,1h 40m,Saban Films,"Sprockefeller Pictures, Mammoth Entertainment, Windy Hill Pictures, Ingenious, Zed Filmworks, Fortitude International , RBL Studios, Rough House Pictures"
+2020/12/4,-,The Climb,"$4,969","$229,840",Drama,English,John Schmidt,,$78.7K,1h 38m,,Dean River Productions
+2020/12/4,-,The New Mutants,"$3,956","$23,833,036","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/12/11,1,The Croods: A New Age,"$3,779,165","$25,029,270","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/12/11,2,Half Brothers,"$645,905","$1,537,430","Comedy, Drama",English,Christoph Lehmann,"Sep 21, 2018",$1.1K,1h 37m,Parade Deck Films,
+2020/12/11,3,Freaky,"$423,310","$8,341,675","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/12/11,4,Elf,"$400,000","$175,026,840","Kids & family, Holiday, Comedy, Fantasy",English,Jon Favreau,"Nov 7, 2003",$177.1M,1h 37m,New Line Cinema,"Guy Walks into a Bar Productions, Gold/Miller Productions, Shawn Danielle Production Services, Mosaic Media Group"
+2020/12/11,5,The War with Grandpa,"$332,378","$18,030,333",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/12/11,-,All My Life,"$277,635","$758,565","Drama, Romance",English,Marc Meyers,"Dec 4, 2020",$909.9K,1h 33m,Universal Pictures,"Broken Road Productions, Universal Pictures, Perfect World Pictures"
+2020/12/11,-,The Polar Express,"$245,000","$184,110,445","Kids & family, Holiday, Fantasy, Animation",English,Robert Zemeckis,"Nov 10, 2004",$125.9M,1h 40m,"Warner Bros. Pictures, Castle Rock","Universal CGI, Playtone Productions, ImageMovers, Warner Brothers, Castle Rock Entertainment, Golden Mean"
+2020/12/11,-,National Lampoon’s Christmas Vacation,"$239,000","$71,558,546","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/12/11,-,Come Play,"$215,865","$9,249,580","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/12/11,-,Tenet,"$188,662","$57,850,226","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/12/11,-,Honest Thief,"$177,843","$14,063,614","Action, Mystery & thriller",English,Mark Williams,"Oct 16, 2020",$14.2M,1h 39m,Open Road,"Ingenious Media, Cutting Edge Group, J Cubed Film Finance, Sprockefeller Pictures, Briarcliff Entertainment, Samuel Marshall Productions, Argonaut Entertainment Partners, Dreadnought Films, Zero Gravity Management, Honest Thief Productions"
+2020/12/11,-,Let Him Go,"$160,090","$9,246,140","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/12/11,-,Wild Mountain Thyme,"$148,513","$148,513","Romance, Comedy",English,John Patrick Shanley,"Dec 11, 2020",$194.9K,1h 42m,Bleecker Street Media,"Sea Around Us, Mar-Key Pictures, Amasia Entertainment, Likely Story, Aperture Media Partners, Port Pictures"
+2020/12/11,-,Archenemy,"$71,836","$71,836","Action, Mystery & thriller",English,Adam Egypt Mortimer,"Dec 11, 2020",$119.4K,1h 30m,RLJE Films,"Almost Never Films Inc., Metrol Technology, SpectreVision, Legion M, Head Gear Films, 3:59"
+2020/12/11,-,The Forgotten Carols,"$55,720","$428,062","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
+2020/12/11,-,The Last Vermeer,"$47,881","$675,958",Drama,English,Dan Friedkin,"Nov 20, 2020",$682.3K,1h 57m,TriStar Pictures,"Imperative Entertainment, NL Film"
+2020/12/11,-,Mario Puzo’s The Godfather Coda: The Death of M…,"$22,407","$66,615,859","Crime, Drama",English,Francis Ford Coppola,"Dec 25, 1990",$64.6M,2h 41m,Paramount Pictures,"Paramount Pictures, Zoetrope Studios"
+2020/12/11,-,Always & Forever,"$21,272","$89,918",Romance,English,Kevin Connor,,,1h 26m,,Larry Levinson Productions
+2020/12/11,-,The New Mutants,"$15,975","$23,849,011","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/12/11,-,The Empty Man,"$7,675","$2,990,530","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/12/18,1,The Croods: A New Age,"$3,587,470","$28,616,740","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/12/18,-,Monster Hunter,"$3,092,417","$3,092,417","Fantasy, Adventure, Action",English,Paul W.S. Anderson,"Dec 18, 2020",$15.1M,1h 43m,"Sony Pictures Entertainment, Screen Gems","Tencent Pictures, Constantin Film, Capcom, Impact Pictures, Toho Company"
+2020/12/18,-,Fatale,"$1,301,522","$1,301,522","Mystery & thriller, Drama",English,Deon Taylor,"Dec 18, 2020",$6.3M,1h 43m,Lionsgate Films,Hidden Empire Film Group
+2020/12/18,-,Half Brothers,"$417,215","$1,954,645","Comedy, Drama",English,Christoph Lehmann,"Sep 21, 2018",$1.1K,1h 37m,Parade Deck Films,
+2020/12/18,-,The War with Grandpa,"$387,425","$18,417,758",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/12/18,-,Elf,"$365,000","$175,391,840","Kids & family, Holiday, Comedy, Fantasy",English,Jon Favreau,"Nov 7, 2003",$177.1M,1h 37m,New Line Cinema,"Guy Walks into a Bar Productions, Gold/Miller Productions, Shawn Danielle Production Services, Mosaic Media Group"
+2020/12/18,-,Freaky,"$268,420","$8,610,095","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/12/18,-,The Polar Express,"$231,000","$184,341,445","Kids & family, Holiday, Fantasy, Animation",English,Robert Zemeckis,"Nov 10, 2004",$125.9M,1h 40m,"Warner Bros. Pictures, Castle Rock","Universal CGI, Playtone Productions, ImageMovers, Warner Brothers, Castle Rock Entertainment, Golden Mean"
+2020/12/18,-,Come Play,"$177,870","$9,427,450","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/12/18,-,National Lampoon’s Christmas Vacation,"$166,000","$71,724,546","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/12/18,-,Tenet,"$149,888","$58,000,114","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/12/18,-,All My Life,"$117,180","$875,745","Drama, Romance",English,Marc Meyers,"Dec 4, 2020",$909.9K,1h 33m,Universal Pictures,"Broken Road Productions, Universal Pictures, Perfect World Pictures"
+2020/12/18,-,Let Him Go,"$89,485","$9,335,625","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/12/18,-,The Forgotten Carols,"$63,387","$491,449","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
+2020/12/18,-,Always & Forever,"$21,272","$111,190",Romance,English,Kevin Connor,,,1h 26m,,Larry Levinson Productions
+2020/12/18,-,Hunter Hunter,"$17,748","$17,748","Horror, Mystery & thriller",English,Shawn Linden,"Dec 18, 2020",$32.2K,1h 33m,IFC Midnight,"Julijette, Particular Crowd, MarVista Entertainment"
+2020/12/18,-,Archenemy,"$13,989","$85,825","Action, Mystery & thriller",English,Adam Egypt Mortimer,"Dec 11, 2020",$119.4K,1h 30m,RLJE Films,"Almost Never Films Inc., Metrol Technology, SpectreVision, Legion M, Head Gear Films, 3:59"
+2020/12/18,-,The Last Vermeer,"$9,422","$685,380",Drama,English,Dan Friedkin,"Nov 20, 2020",$682.3K,1h 57m,TriStar Pictures,"Imperative Entertainment, NL Film"
+2020/12/18,-,The New Mutants,"$3,483","$23,852,494","Fantasy, Horror",English,Josh Boone,"Aug 28, 2020",$23.9M,1h 34m,20th Century Studios,"Sunswept Entertainment, Kinberg Genre"
+2020/12/18,-,The Empty Man,"$2,148","$2,992,678","Horror, Mystery & thriller",English,David Prior,"Oct 23, 2020",$3.0M,2h 17m,20th Century Studios,"Boom! Studios, Out of Africa Entertainment"
+2020/12/25,1,Wonder Woman 1984,"$23,009,311","$23,009,311","Action, Adventure, Fantasy",English,Patty Jenkins,"Dec 25, 2020",$46.5M,2h 31m,Warner Bros. Pictures,"The Stone Quarry, Atlas Entertainment, DC Entertainment, DC Comics, Warner Bros."
+2020/12/25,-,The Croods: A New Age,"$3,717,540","$32,334,280","Kids & family, Comedy, Adventure, Animation",English,Joel Crawford,"Nov 25, 2020",$58.5M,1h 35m,Universal Pictures,DreamWorks Animation
+2020/12/25,-,News of the World,"$3,717,170","$3,717,170","Western, Adventure, Drama",English,Paul Greengrass,"Dec 25, 2020",$12.7M,1h 58m,Universal Pictures,"Universal Pictures, Perfect World Pictures, Pretty Pictures, Playtone Productions"
+2020/12/25,-,Monster Hunter,"$1,925,986","$5,018,403","Fantasy, Adventure, Action",English,Paul W.S. Anderson,"Dec 18, 2020",$15.1M,1h 43m,"Sony Pictures Entertainment, Screen Gems","Tencent Pictures, Constantin Film, Capcom, Impact Pictures, Toho Company"
+2020/12/25,-,Promising Young Woman,"$1,208,180","$1,208,180","Comedy, Mystery & thriller",English,Emerald Fennell,"Dec 25, 2020",$6.4M,1h 53m,Focus Features,"FilmNation Entertainment, LuckyChap Entertainment, Focus Features"
+2020/12/25,-,Fatale,"$1,086,611","$2,388,133","Mystery & thriller, Drama",English,Deon Taylor,"Dec 18, 2020",$6.3M,1h 43m,Lionsgate Films,Hidden Empire Film Group
+2020/12/25,-,Pinocchio,"$488,838","$488,838","Kids & family, Fantasy",Italian,Roberto Benigni,"Dec 25, 2002",$3.7M,1h 48m,Miramax Films,Melampo Cinematografica
+2020/12/25,-,The War with Grandpa,"$284,436","$18,702,194",Comedy,English,Tim Hill,"Oct 9, 2020",$21.3M,1h 34m,101 Studios,"TRI G, Dimension Films, Emmett/Furla/Oasis Films, Marro Films, West Madison Entertainment"
+2020/12/25,-,Elf,"$115,000","$175,506,840","Kids & family, Holiday, Comedy, Fantasy",English,Jon Favreau,"Nov 7, 2003",$177.1M,1h 37m,New Line Cinema,"Guy Walks into a Bar Productions, Gold/Miller Productions, Shawn Danielle Production Services, Mosaic Media Group"
+2020/12/25,-,Freaky,"$91,965","$8,702,060","Horror, Comedy",English,Christopher Landon,"Nov 13, 2020",$9.0M,1h 41m,Universal Pictures,Blumhouse Productions
+2020/12/25,-,National Lampoon’s Christmas Vacation,"$91,000","$71,815,546","Holiday, Comedy",English,Jeremiah S. Chechik,"Dec 1, 1989",$70.0M,1h 37m,Warner Bros.,"Warner Brothers, Hughes Entertainment"
+2020/12/25,-,Come Play,"$78,090","$9,505,540","Horror, Mystery & thriller",English,Jacob Chase,"Oct 30, 2020",$10.5M,1h 36m,Focus Features,"The Picture Company, Participant Media, Reliance Entertainment, Amblin Entertainment"
+2020/12/25,-,Half Brothers,"$61,505","$2,016,150","Comedy, Drama",English,Christoph Lehmann,"Sep 21, 2018",$1.1K,1h 37m,Parade Deck Films,
+2020/12/25,-,The Polar Express,"$60,000","$184,401,445","Kids & family, Holiday, Fantasy, Animation",English,Robert Zemeckis,"Nov 10, 2004",$125.9M,1h 40m,"Warner Bros. Pictures, Castle Rock","Universal CGI, Playtone Productions, ImageMovers, Warner Brothers, Castle Rock Entertainment, Golden Mean"
+2020/12/25,-,Tenet,"$44,051","$58,044,165","Action, Sci-fi, Mystery & thriller",English,Christopher Nolan,"Sep 3, 2020",$58.1M,2h 30m,Warner Bros. Pictures,"Syncopy, Warner Bros. Pictures"
+2020/12/25,-,All My Life,"$23,840","$899,585","Drama, Romance",English,Marc Meyers,"Dec 4, 2020",$909.9K,1h 33m,Universal Pictures,"Broken Road Productions, Universal Pictures, Perfect World Pictures"
+2020/12/25,-,Always & Forever,"$18,674","$129,864",Romance,English,Kevin Connor,,,1h 26m,,Larry Levinson Productions
+2020/12/25,-,Let Him Go,"$12,315","$9,347,940","Drama, Mystery & thriller",English,Thomas Bezucha,"Nov 6, 2020",$9.4M,1h 54m,Focus Features,Mazur / Kaplan Company
+2020/12/25,-,Archenemy,"$11,003","$96,828","Action, Mystery & thriller",English,Adam Egypt Mortimer,"Dec 11, 2020",$119.4K,1h 30m,RLJE Films,"Almost Never Films Inc., Metrol Technology, SpectreVision, Legion M, Head Gear Films, 3:59"
+2020/12/25,-,The Forgotten Carols,"$9,243","$500,692","Music, Kids & family, Musical",English,Christy Summerhays,"Nov 20, 2020",,2h 10m,Purdie Distribution,Shining Star Entertainment
